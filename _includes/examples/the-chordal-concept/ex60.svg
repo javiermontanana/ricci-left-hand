@@ -1,0 +1,3202 @@
+<svg
+   version="1.2"
+   width="188.57994mm"
+   height="45.654617mm"
+   viewBox="0 0 107.3124 25.979998"
+   id="svg19073"
+   sodipodi:docname="ricci-expansion.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs19077" />
+  <sodipodi:namedview
+     id="namedview19075"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <style
+     type="text/css"
+     id="style14759"><![CDATA[
+tspan { white-space: pre; }
+]]></style>
+  <!-- Page: 1/1 -->
+  <g
+     transform="translate(-0.80800006,5.7789996)"
+     id="g15431">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="108.0705"
+       y2="0"
+       id="line15429" />
+  </g>
+  <g
+     transform="translate(-0.80800006,4.7789996)"
+     id="g15435">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="108.0705"
+       y2="0"
+       id="line15433" />
+  </g>
+  <g
+     transform="translate(-0.80800006,3.7789996)"
+     id="g15439">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="108.0705"
+       y2="0"
+       id="line15437" />
+  </g>
+  <g
+     transform="translate(-0.80800006,2.7789996)"
+     id="g15443">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="108.0705"
+       y2="0"
+       id="line15441" />
+  </g>
+  <g
+     transform="translate(-0.80800006,1.7789996)"
+     id="g15447">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="108.0705"
+       y2="0"
+       id="line15445" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15451">
+    <rect
+       x="104.578"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15449" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15455">
+    <rect
+       x="98.5252"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15453" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15459">
+    <rect
+       x="92.472397"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15457" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15463">
+    <rect
+       x="89.195999"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15461" />
+  </g>
+  <g
+     transform="translate(-0.80800006,7.7789996)"
+     id="g15467">
+    <rect
+       x="89.195999"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15465" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15471">
+    <rect
+       x="86.419701"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15469" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15475">
+    <rect
+       x="83.143303"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15473" />
+  </g>
+  <g
+     transform="translate(-0.80800006,7.7789996)"
+     id="g15479">
+    <rect
+       x="83.143303"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15477" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15483">
+    <rect
+       x="80.366898"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15481" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15487">
+    <rect
+       x="74.314102"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15485" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15491">
+    <rect
+       x="68.261299"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15489" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15495">
+    <rect
+       x="64.984901"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15493" />
+  </g>
+  <g
+     transform="translate(-0.80800006,7.7789996)"
+     id="g15499">
+    <rect
+       x="64.984901"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15497" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15503">
+    <rect
+       x="62.2085"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15501" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15507">
+    <rect
+       x="58.932098"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15505" />
+  </g>
+  <g
+     transform="translate(-0.80800006,7.7789996)"
+     id="g15511">
+    <rect
+       x="58.932098"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15509" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15515">
+    <rect
+       x="54.6199"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15513" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15519">
+    <rect
+       x="48.567101"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15517" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15523">
+    <rect
+       x="42.514301"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15521" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15527">
+    <rect
+       x="39.2379"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15525" />
+  </g>
+  <g
+     transform="translate(-0.80800006,7.7789996)"
+     id="g15531">
+    <rect
+       x="39.2379"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15529" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15535">
+    <rect
+       x="36.461498"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15533" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15539">
+    <rect
+       x="33.185101"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15537" />
+  </g>
+  <g
+     transform="translate(-0.80800006,7.7789996)"
+     id="g15543">
+    <rect
+       x="33.185101"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15541" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15547">
+    <rect
+       x="30.408701"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15545" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15551">
+    <rect
+       x="24.3559"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15549" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15555">
+    <rect
+       x="18.303101"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15553" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15559">
+    <rect
+       x="15.0267"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15557" />
+  </g>
+  <g
+     transform="translate(-0.80800006,7.7789996)"
+     id="g15563">
+    <rect
+       x="15.0267"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15561" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15567">
+    <rect
+       x="12.4014"
+       y="-0.1"
+       width="1.8053"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15565" />
+  </g>
+  <g
+     transform="translate(-0.80800006,6.7789996)"
+     id="g15571">
+    <rect
+       x="8.3739004"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15569" />
+  </g>
+  <g
+     transform="translate(-0.80800006,7.7789996)"
+     id="g15575">
+    <rect
+       x="8.3739004"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect15573" />
+  </g>
+  <g
+     transform="translate(57.1643,3.7789996)"
+     id="g15579">
+    <rect
+       x="0"
+       y="-2"
+       width="0.19"
+       height="4"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect15577" />
+  </g>
+  <g
+     transform="translate(107.1224,3.7789996)"
+     id="g15583">
+    <rect
+       x="0"
+       y="-2"
+       width="0.19"
+       height="4"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect15581" />
+  </g>
+  <g
+     transform="translate(67.8443,3.7789996)"
+     id="g15587">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15585" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:16:17"
+     id="a15593"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(74.2779,37.0583)"
+       id="g15591">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15589" />
+    </g>
+  </a>
+  <g
+     transform="translate(64.5679,3.7789996)"
+     id="g15597">
+    <rect
+       x="-0.064999998"
+       y="4.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15595" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:14:15"
+     id="a15603"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(71.0015,38.0583)"
+       id="g15601">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15599" />
+    </g>
+  </a>
+  <g
+     transform="translate(77.1735,3.7789996)"
+     id="g15607">
+    <rect
+       x="-0.064999998"
+       y="2.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15605" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:22:23"
+     id="a15613"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(83.6071,36.0583)"
+       id="g15611">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15609" />
+    </g>
+  </a>
+  <g
+     transform="translate(73.8971,3.7789996)"
+     id="g15617">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15615" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:20:21"
+     id="a15623"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(80.3307,37.0583)"
+       id="g15621">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15619" />
+    </g>
+  </a>
+  <g
+     transform="translate(71.1207,3.7789996)"
+     id="g15627">
+    <rect
+       x="-0.064999998"
+       y="2.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15625" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:18:19"
+     id="a15633"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(77.5543,36.0583)"
+       id="g15631">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15629" />
+    </g>
+  </a>
+  <g
+     transform="translate(58.5151,3.7789996)"
+     id="g15637">
+    <rect
+       x="-0.064999998"
+       y="4.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15635" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:52:11:12"
+     id="a15643"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(64.9487,36.0583)"
+       id="g15641">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 213,112 c -50,0 -69,-43 -69,-88 0,-77 57,-136 134,-136 50,0 69,43 69,88 0,77 -57,136 -134,136 z M 491,0 c 0,-43 -34,-75 -72,-96 -53,-29 -114,-40 -174,-40 -60,0 -120,11 -173,40 -38,21 -72,53 -72,96 0,43 34,75 72,96 53,29 113,40 173,40 60,0 121,-11 174,-40 38,-21 72,-53 72,-96 z"
+         fill="currentColor"
+         id="path15639" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:7:8"
+     id="a15649"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(64.9487,38.0583)"
+       id="g15647">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15645" />
+    </g>
+  </a>
+  <g
+     transform="translate(54.2029,3.7789996)"
+     id="g15653">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15651" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:56:57"
+     id="a15659"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(60.6365,37.0583)"
+       id="g15657">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15655" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:10:11"
+     id="a15665"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(14.3905,34.0583)"
+       id="g15663">
+      <path
+         stroke-width="0.08"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 0.0744,7.55 c 3.1952,1.8517 43.1338,0.9881 46.2459,-1 v 0 C 43.2056,8.4181 3.267,9.2818 0.0744,7.55 Z"
+         id="path15661" />
+    </g>
+  </a>
+  <g
+     transform="translate(61.7915,3.7789996)"
+     id="g15669">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15667" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:10:11"
+     id="a15675"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(68.2251,37.0583)"
+       id="g15673">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15671" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:11:12"
+     id="a15681"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(68.4504,43.6167)"
+       id="g15679">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path15677" />
+    </g>
+  </a>
+  <g
+     transform="translate(98.1082,3.7789996)"
+     id="g15685">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15683" />
+  </g>
+  <g
+     transform="translate(101.3846,3.7789996)"
+     id="g15689">
+    <rect
+       x="-0.064999998"
+       y="2.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15687" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:38:39"
+     id="a15695"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(107.8182,36.0583)"
+       id="g15693">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15691" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:36:37"
+     id="a15701"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(104.5418,37.0583)"
+       id="g15699">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15697" />
+    </g>
+  </a>
+  <g
+     transform="translate(95.3318,3.7789996)"
+     id="g15705">
+    <rect
+       x="-0.064999998"
+       y="2.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15703" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:34:35"
+     id="a15711"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(101.7654,36.0583)"
+       id="g15709">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15707" />
+    </g>
+  </a>
+  <g
+     transform="translate(95.2668,8.7789996)"
+     id="g15715">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="8.9192,-0.2 8.9192,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon15713" />
+  </g>
+  <g
+     transform="translate(95.2668,9.5889996)"
+     id="g15719">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="8.9192,-0.2 8.9192,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon15717" />
+  </g>
+  <g
+     transform="translate(7.8918999,9.7789996)"
+     id="g15723">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="10.0192,-0.2 10.0192,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon15721" />
+  </g>
+  <g
+     transform="translate(7.8918999,10.589)"
+     id="g15727">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="10.0192,-0.2 10.0192,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon15725" />
+  </g>
+  <g
+     transform="translate(21.0975,8.7789996)"
+     id="g15731">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="8.9192,-0.2 8.9192,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon15729" />
+  </g>
+  <g
+     transform="translate(21.0975,9.5889996)"
+     id="g15735">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="8.9192,-0.2 8.9192,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon15733" />
+  </g>
+  <g
+     transform="translate(32.7031,9.7789996)"
+     id="g15739">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.4192,-0.2 9.4192,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon15737" />
+  </g>
+  <g
+     transform="translate(32.7031,10.589)"
+     id="g15743">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.4192,-0.2 9.4192,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon15741" />
+  </g>
+  <g
+     transform="translate(45.3087,8.7789996)"
+     id="g15747">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="8.9192,-0.2 8.9192,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon15745" />
+  </g>
+  <g
+     transform="translate(45.3087,9.5889996)"
+     id="g15751">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="8.9192,-0.2 8.9192,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon15749" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:8:9"
+     id="a15757"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(64.9487,34.0583)"
+       id="g15755">
+      <path
+         stroke-width="0.08"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 0.0745,7.55 c 3.187,1.8492 42.5431,0.987 45.646,-1 v 0 c -3.1056,1.867 -42.4617,2.7292 -45.646,1 z"
+         id="path15753" />
+    </g>
+  </a>
+  <g
+     transform="translate(58.4501,9.7789996)"
+     id="g15761">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.4192,-0.2 9.4192,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon15759" />
+  </g>
+  <g
+     transform="translate(58.4501,10.589)"
+     id="g15765">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.4192,-0.2 9.4192,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon15763" />
+  </g>
+  <g
+     transform="translate(71.0557,8.7789996)"
+     id="g15769">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="8.9192,-0.2 8.9192,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon15767" />
+  </g>
+  <g
+     transform="translate(71.0557,9.5889996)"
+     id="g15773">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="8.9192,-0.2 8.9192,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon15771" />
+  </g>
+  <g
+     transform="translate(82.6613,9.7789996)"
+     id="g15777">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.4192,-0.2 9.4192,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon15775" />
+  </g>
+  <g
+     transform="translate(82.6613,10.589)"
+     id="g15781">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.4192,-0.2 9.4192,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon15779" />
+  </g>
+  <g
+     transform="translate(104.161,3.7789996)"
+     id="g15785">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15783" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:40:41"
+     id="a15791"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(110.5946,37.0583)"
+       id="g15789">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15787" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:28:29"
+     id="a15797"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(92.4363,37.0583)"
+       id="g15795">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15793" />
+    </g>
+  </a>
+  <g
+     transform="translate(82.7263,3.7789996)"
+     id="g15801">
+    <rect
+       x="-0.064999998"
+       y="4.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15799" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:26:27"
+     id="a15807"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(89.1599,38.0583)"
+       id="g15805">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15803" />
+    </g>
+  </a>
+  <g
+     transform="translate(86.0027,3.7789996)"
+     id="g15811">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15809" />
+  </g>
+  <g
+     transform="translate(79.9499,3.7789996)"
+     id="g15815">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15813" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:24:25"
+     id="a15821"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(86.3835,37.0583)"
+       id="g15819">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15817" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:30:31"
+     id="a15827"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(95.2126,38.0583)"
+       id="g15825">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15823" />
+    </g>
+  </a>
+  <g
+     transform="translate(88.779,3.7789996)"
+     id="g15831">
+    <rect
+       x="-0.064999998"
+       y="4.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15829" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:46:32:33"
+     id="a15837"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(98.489,37.0583)"
+       id="g15835">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15833" />
+    </g>
+  </a>
+  <g
+     transform="translate(92.0554,3.7789996)"
+     id="g15841">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15839" />
+  </g>
+  <g
+     transform="translate(17.8861,3.7789996)"
+     id="g15845">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15843" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:20:21"
+     id="a15851"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(24.3197,37.0583)"
+       id="g15849">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15847" />
+    </g>
+  </a>
+  <g
+     transform="translate(14.6097,3.7789996)"
+     id="g15855">
+    <rect
+       x="-0.064999998"
+       y="4.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15853" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:18:19"
+     id="a15861"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(21.0433,38.0583)"
+       id="g15859">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15857" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:26:27"
+     id="a15867"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(30.3725,37.0583)"
+       id="g15865">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15863" />
+    </g>
+  </a>
+  <g
+     transform="translate(27.2153,3.7789996)"
+     id="g15871">
+    <rect
+       x="-0.064999998"
+       y="2.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15869" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:30:31"
+     id="a15877"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(33.6489,36.0583)"
+       id="g15875">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15873" />
+    </g>
+  </a>
+  <g
+     transform="translate(23.9389,3.7789996)"
+     id="g15881">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15879" />
+  </g>
+  <g
+     transform="translate(10.3183,6.7789996)"
+     id="g15885">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 216,-312 c 0,-10 -8,-19 -18,-19 -10,0 -19,9 -19,19 v 145 l -83,-31 v -158 c 0,-10 -9,-19 -19,-19 -10,0 -18,9 -18,19 v 145 l -32,-12 c -2,-1 -5,-1 -7,-1 -11,0 -20,9 -20,20 v 60 c 0,8 5,16 13,19 l 46,16 V 51 L 27,40 C 25,39 22,39 20,39 9,39 0,48 0,59 v 60 c 0,8 5,15 13,18 l 46,17 v 158 c 0,10 8,19 18,19 10,0 19,-9 19,-19 V 167 l 83,31 v 158 c 0,10 9,19 19,19 10,0 18,-9 18,-19 V 211 l 32,12 c 2,1 5,1 7,1 11,0 20,-9 20,-20 v -60 c 0,-8 -5,-16 -13,-19 L 216,109 V -51 l 32,11 c 2,1 5,1 7,1 11,0 20,-9 20,-20 v -60 c 0,-8 -5,-15 -13,-18 l -46,-17 z M 96,65 V -95 l 83,30 V 95 Z"
+       fill="currentColor"
+       id="path15883" />
+  </g>
+  <g
+     transform="translate(21.1625,3.7789996)"
+     id="g15889">
+    <rect
+       x="-0.064999998"
+       y="2.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15887" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:24:25"
+     id="a15895"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(27.5961,36.0583)"
+       id="g15893">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15891" />
+    </g>
+  </a>
+  <g
+     transform="translate(4.1919999,3.7789996)"
+     id="g15899">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 359,27 c -49,0 -75,42 -75,75 0,38 27,77 72,77 4,0 9,0 14,-1 -28,37 -72,59 -120,59 C 144,237 137,164 137,51 V 0 -51 c 0,-113 7,-187 113,-187 80,0 139,70 158,151 2,7 7,10 12,10 6,0 13,-4 13,-12 0,-94 -105,-174 -183,-174 -68,0 -137,21 -184,70 C 17,-142 0,-71 0,0 c 0,71 17,142 66,193 47,49 116,69 184,69 87,0 160,-63 175,-149 1,-5 1,-10 1,-14 0,-40 -30,-72 -67,-72 z"
+       fill="currentColor"
+       id="path15897" />
+  </g>
+  <g
+     transform="translate(7.9568999,3.7789996)"
+     id="g15903">
+    <rect
+       x="-0.064999998"
+       y="4.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15901" />
+  </g>
+  <g
+     transform="translate(-0.00800006,4.7789996)"
+     id="g15907">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 266,-635 h -6 c -108,0 -195,88 -195,197 0,58 53,103 112,103 54,0 95,-47 95,-103 0,-52 -43,-95 -95,-95 -11,0 -21,2 -31,6 26,-39 68,-65 117,-65 h 4 z m 195,432 c 68,24 113,95 113,164 0,90 -66,179 -173,190 24,-116 46,-231 60,-354 z M 74,28 c 0,-135 129,-247 264,-247 28,0 55,2 82,6 C 406,-86 383,32 357,151 278,143 233,90 233,32 c 0,-44 25,-91 81,-123 5,-5 7,-10 7,-15 0,-11 -10,-22 -22,-22 -3,0 -6,1 -9,2 -80,43 -117,115 -117,185 0,88 58,174 160,197 -14,58 -29,117 -46,175 C 180,310 74,188 74,28 Z M 335,-262 C 147,-262 2,-90 2,112 c 0,177 131,306 248,441 -19,62 -37,125 -45,190 -6,52 -7,104 -7,156 0,115 55,224 149,292 6,5 14,5 20,0 71,-84 133,-245 133,-358 0,-143 -86,-255 -180,-364 21,-68 39,-138 56,-207 4,0 9,1 13,1 155,0 256,-128 256,-261 0,-76 -33,-154 -107,-210 -22,-17 -47,-28 -73,-36 3,-35 5,-70 5,-105 0,-19 -1,-39 -2,-58 -7,-119 -88,-225 -202,-228 l 1,43 c 93,2 153,92 159,191 1,18 2,37 2,55 0,31 -1,61 -4,92 -29,-5 -58,-8 -89,-8 z m 93,1178 c 0,55 -4,79 -20,129 -99,-48 -162,-149 -162,-259 0,-74 18,-133 36,-194 80,97 146,198 146,324 z"
+       fill="currentColor"
+       id="path15905" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:52:8:9"
+     id="a15913"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(14.3905,36.0583)"
+       id="g15911">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 213,112 c -50,0 -69,-43 -69,-88 0,-77 57,-136 134,-136 50,0 69,43 69,88 0,77 -57,136 -134,136 z M 491,0 c 0,-43 -34,-75 -72,-96 -53,-29 -114,-40 -174,-40 -60,0 -120,11 -173,40 -38,21 -72,53 -72,96 0,43 34,75 72,96 53,29 113,40 173,40 60,0 121,-11 174,-40 38,-21 72,-53 72,-96 z"
+         fill="currentColor"
+         id="path15909" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:7:8"
+     id="a15919"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(14.3905,38.0583)"
+       id="g15917">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15915" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:12:13"
+     id="a15925"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(18.2669,37.0583)"
+       id="g15923">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15921" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:15:16"
+     id="a15931"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(18.5264,43.6524)"
+       id="g15929">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path15927" />
+    </g>
+  </a>
+  <g
+     transform="translate(11.8333,3.7789996)"
+     id="g15935">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15933" />
+  </g>
+  <g
+     transform="translate(38.8209,3.7789996)"
+     id="g15939">
+    <rect
+       x="-0.064999998"
+       y="4.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15937" />
+  </g>
+  <g
+     transform="translate(42.0973,3.7789996)"
+     id="g15943">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15941" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:44:45"
+     id="a15949"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(48.5309,37.0583)"
+       id="g15947">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15945" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:42:43"
+     id="a15955"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(45.2545,38.0583)"
+       id="g15953">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15951" />
+    </g>
+  </a>
+  <g
+     transform="translate(36.0445,3.7789996)"
+     id="g15959">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15957" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:38:39"
+     id="a15965"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(42.4781,37.0583)"
+       id="g15963">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15961" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:48:49"
+     id="a15971"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(51.8073,36.0583)"
+       id="g15969">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15967" />
+    </g>
+  </a>
+  <g
+     transform="translate(45.3737,3.7789996)"
+     id="g15975">
+    <rect
+       x="-0.064999998"
+       y="2.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15973" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:50:51"
+     id="a15981"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(54.5837,37.0583)"
+       id="g15979">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15977" />
+    </g>
+  </a>
+  <g
+     transform="translate(48.1501,3.7789996)"
+     id="g15985">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15983" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:54:55"
+     id="a15991"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(57.8601,36.0583)"
+       id="g15989">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15987" />
+    </g>
+  </a>
+  <g
+     transform="translate(51.4265,3.7789996)"
+     id="g15995">
+    <rect
+       x="-0.064999998"
+       y="2.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect15993" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:32:33"
+     id="a16001"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(36.4253,37.0583)"
+       id="g15999">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path15997" />
+    </g>
+  </a>
+  <g
+     transform="translate(29.9917,3.7789996)"
+     id="g16005">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16003" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:45:36:37"
+     id="a16011"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(39.2017,38.0583)"
+       id="g16009">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16007" />
+    </g>
+  </a>
+  <g
+     transform="translate(32.7681,3.7789996)"
+     id="g16015">
+    <rect
+       x="-0.064999998"
+       y="4.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16013" />
+  </g>
+  <g
+     transform="translate(-0.80800006,18.4231)"
+     id="g16019">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="108.0705"
+       y2="0"
+       id="line16017" />
+  </g>
+  <g
+     transform="translate(-0.80800006,17.4231)"
+     id="g16023">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="108.0705"
+       y2="0"
+       id="line16021" />
+  </g>
+  <g
+     transform="translate(-0.80800006,16.4231)"
+     id="g16027">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="108.0705"
+       y2="0"
+       id="line16025" />
+  </g>
+  <g
+     transform="translate(-0.80800006,15.4231)"
+     id="g16031">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="108.0705"
+       y2="0"
+       id="line16029" />
+  </g>
+  <g
+     transform="translate(-0.80800006,14.4231)"
+     id="g16035">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="108.0705"
+       y2="0"
+       id="line16033" />
+  </g>
+  <g
+     transform="translate(-0.80800006,19.4231)"
+     id="g16039">
+    <rect
+       x="88.727203"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16037" />
+  </g>
+  <g
+     transform="translate(-0.80800006,19.4231)"
+     id="g16043">
+    <rect
+       x="82.518097"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16041" />
+  </g>
+  <g
+     transform="translate(-0.80800006,19.4231)"
+     id="g16047">
+    <rect
+       x="63.8908"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16045" />
+  </g>
+  <g
+     transform="translate(-0.80800006,19.4231)"
+     id="g16051">
+    <rect
+       x="57.832802"
+       y="-0.1"
+       width="1.8053"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16049" />
+  </g>
+  <g
+     transform="translate(-0.80800006,19.4231)"
+     id="g16055">
+    <rect
+       x="52.292099"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16053" />
+  </g>
+  <g
+     transform="translate(-0.80800006,19.4231)"
+     id="g16059">
+    <rect
+       x="46.083"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16057" />
+  </g>
+  <g
+     transform="translate(-0.80800006,19.4231)"
+     id="g16063">
+    <rect
+       x="39.873901"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16061" />
+  </g>
+  <g
+     transform="translate(-0.80800006,19.4231)"
+     id="g16067">
+    <rect
+       x="36.519402"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16065" />
+  </g>
+  <g
+     transform="translate(-0.80800006,20.4231)"
+     id="g16071">
+    <rect
+       x="36.519402"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16069" />
+  </g>
+  <g
+     transform="translate(-0.80800006,19.4231)"
+     id="g16075">
+    <rect
+       x="33.664799"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16073" />
+  </g>
+  <g
+     transform="translate(-0.80800006,19.4231)"
+     id="g16079">
+    <rect
+       x="30.310301"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16077" />
+  </g>
+  <g
+     transform="translate(-0.80800006,20.4231)"
+     id="g16083">
+    <rect
+       x="30.310301"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16081" />
+  </g>
+  <g
+     transform="translate(-0.80800006,19.4231)"
+     id="g16087">
+    <rect
+       x="27.4557"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16085" />
+  </g>
+  <g
+     transform="translate(-0.80800006,19.4231)"
+     id="g16091">
+    <rect
+       x="21.2467"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16089" />
+  </g>
+  <g
+     transform="translate(-0.80800006,19.4231)"
+     id="g16095">
+    <rect
+       x="15.0376"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16093" />
+  </g>
+  <g
+     transform="translate(-0.80800006,19.4231)"
+     id="g16099">
+    <rect
+       x="11.683"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16097" />
+  </g>
+  <g
+     transform="translate(-0.80800006,20.4231)"
+     id="g16103">
+    <rect
+       x="11.683"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16101" />
+  </g>
+  <g
+     transform="translate(-0.80800006,19.4231)"
+     id="g16107">
+    <rect
+       x="8.8284998"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16105" />
+  </g>
+  <g
+     transform="translate(-0.80800006,19.4231)"
+     id="g16111">
+    <rect
+       x="5.4738998"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16109" />
+  </g>
+  <g
+     transform="translate(-0.80800006,20.4231)"
+     id="g16115">
+    <rect
+       x="5.4738998"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect16113" />
+  </g>
+  <g
+     transform="translate(107.1224,16.4231)"
+     id="g16119">
+    <rect
+       x="0"
+       y="-2"
+       width="0.19"
+       height="4"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect16117" />
+  </g>
+  <g
+     transform="translate(54.9146,16.4231)"
+     id="g16123">
+    <rect
+       x="0"
+       y="-2"
+       width="0.19"
+       height="4"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect16121" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:48:22:23"
+     id="a16129"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(79.4711,49.2024)"
+       id="g16127">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16125" />
+    </g>
+  </a>
+  <g
+     transform="translate(70.1829,16.4231)"
+     id="g16133">
+    <rect
+       x="-0.064999998"
+       y="1.6861"
+       width="0.13"
+       height="3.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16131" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:48:20:21"
+     id="a16139"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(76.6165,48.2024)"
+       id="g16137">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16135" />
+    </g>
+  </a>
+  <g
+     transform="translate(66.8284,16.4231)"
+     id="g16143">
+    <rect
+       x="-0.064999998"
+       y="2.6861"
+       width="0.13"
+       height="3.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16141" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:48:18:19"
+     id="a16149"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(73.262,49.2024)"
+       id="g16147">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16145" />
+    </g>
+  </a>
+  <g
+     transform="translate(79.2465,16.4231)"
+     id="g16153">
+    <rect
+       x="-0.064999998"
+       y="2.6861"
+       width="0.13"
+       height="2.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16151" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:48:26:27"
+     id="a16159"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(85.6801,49.2024)"
+       id="g16157">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16155" />
+    </g>
+  </a>
+  <g
+     transform="translate(73.0375,16.4231)"
+     id="g16163">
+    <rect
+       x="-0.064999998"
+       y="2.6861"
+       width="0.13"
+       height="2.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16161" />
+  </g>
+  <g
+     transform="translate(76.392,16.4231)"
+     id="g16167">
+    <rect
+       x="-0.064999998"
+       y="1.6861"
+       width="0.13"
+       height="3.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16165" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:48:24:25"
+     id="a16173"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(82.8256,48.2024)"
+       id="g16171">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16169" />
+    </g>
+  </a>
+  <g
+     transform="translate(56.0498,19.9231)"
+     id="g16177">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 27,41 -1,-66 v -11 c 0,-22 1,-44 4,-66 45,38 93,80 93,139 0,33 -14,67 -43,67 C 49,104 28,74 27,41 Z m -42,-179 -12,595 c 8,5 18,8 27,8 9,0 19,-3 27,-8 L 20,112 c 25,21 58,34 91,34 52,0 89,-48 89,-102 0,-80 -86,-117 -147,-169 -15,-13 -24,-38 -45,-38 -13,0 -23,11 -23,25 z"
+       fill="currentColor"
+       id="path16175" />
+  </g>
+  <g
+     transform="translate(57.2648,16.4231)"
+     id="g16181">
+    <rect
+       x="-0.064999998"
+       y="3.6861"
+       width="0.13"
+       height="2.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16179" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:52:16:17"
+     id="a16187"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(63.6984,48.2024)"
+       id="g16185">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 213,112 c -50,0 -69,-43 -69,-88 0,-77 57,-136 134,-136 50,0 69,43 69,88 0,77 -57,136 -134,136 z M 491,0 c 0,-43 -34,-75 -72,-96 -53,-29 -114,-40 -174,-40 -60,0 -120,11 -173,40 -38,21 -72,53 -72,96 0,43 34,75 72,96 53,29 113,40 173,40 60,0 121,-11 174,-40 38,-21 72,-53 72,-96 z"
+         fill="currentColor"
+         id="path16183" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:48:7:8"
+     id="a16193"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(63.6984,50.2024)"
+       id="g16191">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16189" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:8:9"
+     id="a16199"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(11.4906,46.7024)"
+       id="g16197">
+      <path
+         stroke-width="0.08"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 0.0743,7.55 c 3.2029,1.8541 43.6973,0.9892 46.8181,-1 v 0 C 43.769,8.4192 3.2746,9.2841 0.0743,7.55 Z"
+         id="path16195" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:48:12:13"
+     id="a16205"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(67.0529,49.2024)"
+       id="g16203">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16201" />
+    </g>
+  </a>
+  <g
+     transform="translate(60.6193,16.4231)"
+     id="g16209">
+    <rect
+       x="-0.064999998"
+       y="2.6861"
+       width="0.13"
+       height="3.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16207" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:48:14:15"
+     id="a16215"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(69.9074,50.2024)"
+       id="g16213">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16211" />
+    </g>
+  </a>
+  <g
+     transform="translate(63.4738,16.4231)"
+     id="g16219">
+    <rect
+       x="-0.064999998"
+       y="3.6861"
+       width="0.13"
+       height="2.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16217" />
+  </g>
+  <g
+     transform="translate(104.0829,16.4231)"
+     id="g16223">
+    <rect
+       x="-0.064999998"
+       y="2.6861"
+       width="0.13"
+       height="2.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16221" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:48:46:47"
+     id="a16229"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(110.5165,49.2024)"
+       id="g16227">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16225" />
+    </g>
+  </a>
+  <g
+     transform="translate(101.2283,16.4231)"
+     id="g16233">
+    <rect
+       x="-0.064999998"
+       y="1.6861"
+       width="0.13"
+       height="3.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16231" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:48:44:45"
+     id="a16239"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(107.6619,48.2024)"
+       id="g16237">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16235" />
+    </g>
+  </a>
+  <g
+     transform="translate(94.9543,20.8031)"
+     id="g16243">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.1536,-0.2 9.1536,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon16241" />
+  </g>
+  <g
+     transform="translate(94.9543,21.6131)"
+     id="g16247">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.1536,-0.2 9.1536,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon16245" />
+  </g>
+  <g
+     transform="translate(4.9919999,22.4231)"
+     id="g16251">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.6536,-0.2 9.6536,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon16249" />
+  </g>
+  <g
+     transform="translate(4.9919999,23.2331)"
+     id="g16255">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.6536,-0.2 9.6536,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon16253" />
+  </g>
+  <g
+     transform="translate(17.9101,21.4231)"
+     id="g16259">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.1536,-0.2 9.1536,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon16257" />
+  </g>
+  <g
+     transform="translate(17.9101,22.2331)"
+     id="g16263">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.1536,-0.2 9.1536,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon16261" />
+  </g>
+  <g
+     transform="translate(29.8283,22.4231)"
+     id="g16267">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.6536,-0.2 9.6536,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon16265" />
+  </g>
+  <g
+     transform="translate(29.8283,23.2331)"
+     id="g16271">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.6536,-0.2 9.6536,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon16269" />
+  </g>
+  <g
+     transform="translate(42.7465,21.4231)"
+     id="g16275">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.1536,-0.2 9.1536,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon16273" />
+  </g>
+  <g
+     transform="translate(42.7465,22.2331)"
+     id="g16279">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.1536,-0.2 9.1536,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon16277" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:48:10:11"
+     id="a16285"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(63.6984,46.7024)"
+       id="g16283">
+      <path
+         stroke-width="0.08"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 0.0743,6.93 c 3.2029,1.8541 43.6973,0.9892 46.8181,-1 v 0 C 43.769,7.7992 3.2746,8.6641 0.0743,6.93 Z"
+         id="path16281" />
+    </g>
+  </a>
+  <g
+     transform="translate(57.1998,21.8031)"
+     id="g16289">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.6536,-0.2 9.6536,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon16287" />
+  </g>
+  <g
+     transform="translate(57.1998,22.6131)"
+     id="g16293">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.6536,-0.2 9.6536,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon16291" />
+  </g>
+  <g
+     transform="translate(70.1179,20.8031)"
+     id="g16297">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.1536,-0.2 9.1536,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon16295" />
+  </g>
+  <g
+     transform="translate(70.1179,21.6131)"
+     id="g16301">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.1536,-0.2 9.1536,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon16299" />
+  </g>
+  <g
+     transform="translate(82.0361,21.8031)"
+     id="g16305">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.6536,-0.2 9.6536,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon16303" />
+  </g>
+  <g
+     transform="translate(82.0361,22.6131)"
+     id="g16309">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="9.6536,-0.2 9.6536,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon16307" />
+  </g>
+  <g
+     transform="translate(88.3102,16.4231)"
+     id="g16313">
+    <rect
+       x="-0.064999998"
+       y="3.6861"
+       width="0.13"
+       height="2.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16311" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:48:34:35"
+     id="a16319"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(94.7438,50.2024)"
+       id="g16317">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16315" />
+    </g>
+  </a>
+  <g
+     transform="translate(85.4556,16.4231)"
+     id="g16323">
+    <rect
+       x="-0.064999998"
+       y="2.6861"
+       width="0.13"
+       height="3.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16321" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:48:32:33"
+     id="a16329"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(91.8892,49.2024)"
+       id="g16327">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16325" />
+    </g>
+  </a>
+  <g
+     transform="translate(82.1011,16.4231)"
+     id="g16333">
+    <rect
+       x="-0.064999998"
+       y="3.6861"
+       width="0.13"
+       height="2.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16331" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:48:28:29"
+     id="a16339"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(88.5347,50.2024)"
+       id="g16337">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16335" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:48:38:39"
+     id="a16345"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(98.0983,49.2024)"
+       id="g16343">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16341" />
+    </g>
+  </a>
+  <g
+     transform="translate(91.6647,16.4231)"
+     id="g16349">
+    <rect
+       x="-0.064999998"
+       y="2.6861"
+       width="0.13"
+       height="3.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16347" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:48:40:41"
+     id="a16355"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(101.4529,48.2024)"
+       id="g16353">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16351" />
+    </g>
+  </a>
+  <g
+     transform="translate(95.0193,16.4231)"
+     id="g16359">
+    <rect
+       x="-0.064999998"
+       y="1.6861"
+       width="0.13"
+       height="3.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16357" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:48:42:43"
+     id="a16365"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(104.3074,49.2024)"
+       id="g16363">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16361" />
+    </g>
+  </a>
+  <g
+     transform="translate(97.8738,16.4231)"
+     id="g16369">
+    <rect
+       x="-0.064999998"
+       y="2.6861"
+       width="0.13"
+       height="2.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16367" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:20:21"
+     id="a16375"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(24.4087,48.7024)"
+       id="g16373">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16371" />
+    </g>
+  </a>
+  <g
+     transform="translate(14.6206,16.4231)"
+     id="g16379">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16377" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:18:19"
+     id="a16385"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(21.0542,49.7024)"
+       id="g16383">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16381" />
+    </g>
+  </a>
+  <g
+     transform="translate(17.9751,16.4231)"
+     id="g16389">
+    <rect
+       x="-0.064999998"
+       y="2.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16387" />
+  </g>
+  <g
+     transform="translate(11.266,16.4231)"
+     id="g16393">
+    <rect
+       x="-0.064999998"
+       y="4.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16391" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:16:17"
+     id="a16399"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(17.6996,50.7024)"
+       id="g16397">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16395" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:28:29"
+     id="a16405"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(33.4723,49.7024)"
+       id="g16403">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16401" />
+    </g>
+  </a>
+  <g
+     transform="translate(24.1842,16.4231)"
+     id="g16409">
+    <rect
+       x="-0.064999998"
+       y="2.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16407" />
+  </g>
+  <g
+     transform="translate(20.8297,16.4231)"
+     id="g16413">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16411" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:23:24"
+     id="a16419"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(27.2633,49.7024)"
+       id="g16417">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16415" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:9:10"
+     id="a16425"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(11.7159,55.882)"
+       id="g16423">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path16421" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:7:8"
+     id="a16431"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(11.4906,50.7024)"
+       id="g16429">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16427" />
+    </g>
+  </a>
+  <g
+     transform="translate(-0.00800006,17.4231)"
+     id="g16435">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 266,-635 h -6 c -108,0 -195,88 -195,197 0,58 53,103 112,103 54,0 95,-47 95,-103 0,-52 -43,-95 -95,-95 -11,0 -21,2 -31,6 26,-39 68,-65 117,-65 h 4 z m 195,432 c 68,24 113,95 113,164 0,90 -66,179 -173,190 24,-116 46,-231 60,-354 z M 74,28 c 0,-135 129,-247 264,-247 28,0 55,2 82,6 C 406,-86 383,32 357,151 278,143 233,90 233,32 c 0,-44 25,-91 81,-123 5,-5 7,-10 7,-15 0,-11 -10,-22 -22,-22 -3,0 -6,1 -9,2 -80,43 -117,115 -117,185 0,88 58,174 160,197 -14,58 -29,117 -46,175 C 180,310 74,188 74,28 Z M 335,-262 C 147,-262 2,-90 2,112 c 0,177 131,306 248,441 -19,62 -37,125 -45,190 -6,52 -7,104 -7,156 0,115 55,224 149,292 6,5 14,5 20,0 71,-84 133,-245 133,-358 0,-143 -86,-255 -180,-364 21,-68 39,-138 56,-207 4,0 9,1 13,1 155,0 256,-128 256,-261 0,-76 -33,-154 -107,-210 -22,-17 -47,-28 -73,-36 3,-35 5,-70 5,-105 0,-19 -1,-39 -2,-58 -7,-119 -88,-225 -202,-228 l 1,43 c 93,2 153,92 159,191 1,18 2,37 2,55 0,31 -1,61 -4,92 -29,-5 -58,-8 -89,-8 z m 93,1178 c 0,55 -4,79 -20,129 -99,-48 -162,-149 -162,-259 0,-74 18,-133 36,-194 80,97 146,198 146,324 z"
+       fill="currentColor"
+       id="path16433" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:52:13:14"
+     id="a16441"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(11.4906,48.7024)"
+       id="g16439">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 213,112 c -50,0 -69,-43 -69,-88 0,-77 57,-136 134,-136 50,0 69,43 69,88 0,77 -57,136 -134,136 z M 491,0 c 0,-43 -34,-75 -72,-96 -53,-29 -114,-40 -174,-40 -60,0 -120,11 -173,40 -38,21 -72,53 -72,96 0,43 34,75 72,96 53,29 113,40 173,40 60,0 121,-11 174,-40 38,-21 72,-53 72,-96 z"
+         fill="currentColor"
+         id="path16437" />
+    </g>
+  </a>
+  <g
+     transform="translate(8.4114999,16.4231)"
+     id="g16445">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16443" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:13:14"
+     id="a16451"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(15.1046,56.2593)"
+       id="g16449">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path16447" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:12:13"
+     id="a16457"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(14.8451,49.7024)"
+       id="g16455">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16453" />
+    </g>
+  </a>
+  <g
+     transform="translate(3.8419999,18.4231)"
+     id="g16461">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 27,41 -1,-66 v -11 c 0,-22 1,-44 4,-66 45,38 93,80 93,139 0,33 -14,67 -43,67 C 49,104 28,74 27,41 Z m -42,-179 -12,595 c 8,5 18,8 27,8 9,0 19,-3 27,-8 L 20,112 c 25,21 58,34 91,34 52,0 89,-48 89,-102 0,-80 -86,-117 -147,-169 -15,-13 -24,-38 -45,-38 -13,0 -23,11 -23,25 z"
+       fill="currentColor"
+       id="path16459" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:25:26"
+     id="a16467"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(30.6178,48.7024)"
+       id="g16465">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16463" />
+    </g>
+  </a>
+  <g
+     transform="translate(5.0569999,16.4231)"
+     id="g16471">
+    <rect
+       x="-0.064999998"
+       y="4.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16469" />
+  </g>
+  <g
+     transform="translate(39.4569,16.4231)"
+     id="g16475">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16473" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:34:35"
+     id="a16481"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(42.536,50.7024)"
+       id="g16479">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16477" />
+    </g>
+  </a>
+  <g
+     transform="translate(36.1024,16.4231)"
+     id="g16485">
+    <rect
+       x="-0.064999998"
+       y="4.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16483" />
+  </g>
+  <g
+     transform="translate(27.0387,16.4231)"
+     id="g16489">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16487" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:36:37"
+     id="a16495"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(45.8905,49.7024)"
+       id="g16493">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16491" />
+    </g>
+  </a>
+  <g
+     transform="translate(45.666,16.4231)"
+     id="g16499">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16497" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:41:42"
+     id="a16505"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(52.0996,49.7024)"
+       id="g16503">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16501" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:38:39"
+     id="a16511"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(49.2451,48.7024)"
+       id="g16509">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16507" />
+    </g>
+  </a>
+  <g
+     transform="translate(42.8115,16.4231)"
+     id="g16515">
+    <rect
+       x="-0.064999998"
+       y="2.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16513" />
+  </g>
+  <g
+     transform="translate(51.8751,16.4231)"
+     id="g16519">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16517" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:46:47"
+     id="a16525"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(58.3087,49.7024)"
+       id="g16523">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16521" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:30:31"
+     id="a16531"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(36.3269,50.7024)"
+       id="g16529">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16527" />
+    </g>
+  </a>
+  <g
+     transform="translate(29.8933,16.4231)"
+     id="g16535">
+    <rect
+       x="-0.064999998"
+       y="4.1861"
+       width="0.13"
+       height="2.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16533" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:32:33"
+     id="a16541"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(39.6814,49.7024)"
+       id="g16539">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16537" />
+    </g>
+  </a>
+  <g
+     transform="translate(33.2478,16.4231)"
+     id="g16545">
+    <rect
+       x="-0.064999998"
+       y="3.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16543" />
+  </g>
+  <g
+     transform="translate(49.0205,16.4231)"
+     id="g16549">
+    <rect
+       x="-0.064999998"
+       y="2.1861"
+       width="0.13"
+       height="3.6238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16547" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmp7dynr6r2/ricci-expansion.ly:47:43:44"
+     id="a16555"
+     transform="translate(-6.4986001,-30.2793)">
+    <g
+       transform="translate(55.4541,48.7024)"
+       id="g16553">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path16551" />
+    </g>
+  </a>
+</svg>

@@ -1,0 +1,988 @@
+<svg
+   version="1.2"
+   width="122.65154mm"
+   height="23.504969mm"
+   viewBox="0 0 69.795503 13.375625"
+   id="svg87910"
+   sodipodi:docname="loose examples-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs87914" />
+  <sodipodi:namedview
+     id="namedview87912"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <style
+     type="text/css"
+     id="style83554"><![CDATA[
+tspan { white-space: pre; }
+]]></style>
+  <!-- Page: 1/3 -->
+  <g
+     transform="translate(3.1967416e-8,7.7327145)"
+     id="g86946">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="65.610001"
+       y2="0"
+       id="line86944" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,6.7327145)"
+     id="g86950">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="65.610001"
+       y2="0"
+       id="line86948" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,5.7327145)"
+     id="g86954">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="65.610001"
+       y2="0"
+       id="line86952" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,4.7327145)"
+     id="g86958">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="65.610001"
+       y2="0"
+       id="line86956" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,3.7327145)"
+     id="g86962">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="65.610001"
+       y2="0"
+       id="line86960" />
+  </g>
+  <g
+     transform="translate(65.47,5.7327145)"
+     id="g86966">
+    <rect
+       x="0"
+       y="-2"
+       width="0.19"
+       height="4"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect86964" />
+  </g>
+  <g
+     transform="translate(64.98,5.7327145)"
+     id="g86970">
+    <rect
+       x="0"
+       y="-2"
+       width="0.19"
+       height="4"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect86968" />
+  </g>
+  <g
+     transform="translate(35.09,5.7327145)"
+     id="g86974">
+    <rect
+       x="0"
+       y="-2"
+       width="0.19"
+       height="4"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect86972" />
+  </g>
+  <g
+     transform="translate(34.6,5.7327145)"
+     id="g86978">
+    <rect
+       x="0"
+       y="-2"
+       width="0.19"
+       height="4"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect86976" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,8.7327145)"
+     id="g86982">
+    <rect
+       x="35.853901"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect86980" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,8.7327145)"
+     id="g86986">
+    <rect
+       x="5.4738998"
+       y="-0.1"
+       width="1.9563"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect86984" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:74:75"
+     id="a86992"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(29.6817,133.745)"
+       id="g86990">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path86988" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:92:93"
+     id="a86998"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(36.6906,128.5683)"
+       id="g86996">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path86994" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:96:97"
+     id="a87004"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(36.9159,127.5183)"
+       id="g87002">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path87000" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:94:95"
+     id="a87010"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(36.8817,133.745)"
+       id="g87008">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path87006" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:3:4"
+     id="a87016"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(41.8706,133.0683)"
+       id="g87014">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87012" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:6:7"
+     id="a87022"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(41.8706,132.0683)"
+       id="g87020">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87018" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:9:10"
+     id="a87030"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(41.8706,127.0803)"
+       id="g87028">
+      <text
+         font-family="serif"
+         font-size="2.2001px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text87026"><tspan
+           id="tspan87024">Play</tspan></text>
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:16:17"
+     id="a87038"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(41.8706,135.6097)"
+       id="g87036">
+      <text
+         font-family="serif"
+         font-size="2.2001px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text87034"><tspan
+           id="tspan87032">Silent</tspan></text>
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:82:83"
+     id="a87044"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(33.0906,129.0683)"
+       id="g87042">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87040" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:80:81"
+     id="a87050"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(33.0906,130.0683)"
+       id="g87048">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87046" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:90:91"
+     id="a87056"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(36.6906,129.5683)"
+       id="g87054">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87052" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:86:87"
+     id="a87062"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(33.35,127.5183)"
+       id="g87060">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="M 129,129 H 259 C 259,77 291,29 340,29 350,29 354,21 354,14 354,7 350,0 340,0 291,0 243,14 194,14 145,14 98,0 49,0 39,0 34,7 34,14 c 0,7 5,15 15,15 49,0 80,48 80,100 z M 0,250 129,500 c 3,7 13,3 21,0 14,-6 28,-14 44,-14 16,0 31,8 45,14 2,1 2,1 4,1 8,0 16,-9 16,-21 V 129 H 129 v 215 c 0,15 -11,23 -20,23 -5,0 -9,-2 -11,-7 L 32,233 c -4,-7 -9,-9 -15,-9 -9,0 -19,7 -19,17 0,3 0,6 2,9 z"
+         fill="currentColor"
+         id="path87058" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:84:85"
+     id="a87068"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(33.35,133.745)"
+       id="g87066">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path87064" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:41:42"
+     id="a87074"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(52.6706,130.5683)"
+       id="g87072">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87070" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:45:46"
+     id="a87080"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(56.2706,131.0683)"
+       id="g87078">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87076" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:47:48"
+     id="a87086"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(56.2706,130.0683)"
+       id="g87084">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87082" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:51:52"
+     id="a87092"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(59.8706,130.5683)"
+       id="g87090">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87088" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:53:54"
+     id="a87098"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(59.8706,129.5683)"
+       id="g87096">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87094" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:39:40"
+     id="a87104"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(52.6706,131.5683)"
+       id="g87102">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87100" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:57:58"
+     id="a87110"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(63.4706,130.0683)"
+       id="g87108">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87106" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:59:60"
+     id="a87116"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(63.4706,129.0683)"
+       id="g87114">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87112" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:63:64"
+     id="a87122"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(67.0706,129.5683)"
+       id="g87120">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87118" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:65:66"
+     id="a87128"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(67.0706,128.5683)"
+       id="g87126">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87124" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:67:68"
+     id="a87136"
+     transform="translate(-0.23362757,-127.42787)">
+    <g
+       transform="translate(67.0706,133.9098)"
+       id="g87134">
+      <text
+         font-family="serif"
+         font-size="2.2001px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text87132"><tspan
+           id="tspan87130">etc.</tspan></text>
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:27:28"
+     id="a87142"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(45.4706,132.5683)"
+       id="g87140">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87138" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:29:30"
+     id="a87148"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(45.4706,131.5683)"
+       id="g87146">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87144" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:33:34"
+     id="a87154"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(49.0706,132.0683)"
+       id="g87152">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87150" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:163:35:36"
+     id="a87160"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(49.0706,131.0683)"
+       id="g87158">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87156" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:30:31"
+     id="a87166"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(15.0906,132.5683)"
+       id="g87164">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87162" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:32:33"
+     id="a87172"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(15.0906,131.5683)"
+       id="g87170">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87168" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:36:37"
+     id="a87178"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(15.3159,127.5183)"
+       id="g87176">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path87174" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:34:35"
+     id="a87184"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(15.2817,134.74)"
+       id="g87182">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path87180" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:76:77"
+     id="a87190"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(29.7159,127.5183)"
+       id="g87188">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path87186" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:40:41"
+     id="a87196"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(18.6906,132.0683)"
+       id="g87194">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87192" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:42:43"
+     id="a87202"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(18.6906,131.0683)"
+       id="g87200">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87198" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:46:47"
+     id="a87208"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(18.95,127.5183)"
+       id="g87206">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="M 129,129 H 259 C 259,77 291,29 340,29 350,29 354,21 354,14 354,7 350,0 340,0 291,0 243,14 194,14 145,14 98,0 49,0 39,0 34,7 34,14 c 0,7 5,15 15,15 49,0 80,48 80,100 z M 0,250 129,500 c 3,7 13,3 21,0 14,-6 28,-14 44,-14 16,0 31,8 45,14 2,1 2,1 4,1 8,0 16,-9 16,-21 V 129 H 129 v 215 c 0,15 -11,23 -20,23 -5,0 -9,-2 -11,-7 L 32,233 c -4,-7 -9,-9 -15,-9 -9,0 -19,7 -19,17 0,3 0,6 2,9 z"
+         fill="currentColor"
+         id="path87204" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:8:9"
+     id="a87214"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(11.75,135.24)"
+       id="g87212">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path87210" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:3:4"
+     id="a87220"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(11.4906,133.0683)"
+       id="g87218">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87216" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:5:6"
+     id="a87226"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(11.4906,132.0683)"
+       id="g87224">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87222" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:12:13"
+     id="a87234"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(11.4906,125.8632)"
+       id="g87232">
+      <text
+         font-family="serif"
+         font-size="2.2001px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text87230"><tspan
+           id="tspan87228">Silent</tspan></text>
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:21:22"
+     id="a87242"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(11.4906,137.2364)"
+       id="g87240">
+      <text
+         font-family="serif"
+         font-size="2.2001px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text87238"><tspan
+           id="tspan87236">Play</tspan></text>
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:10:11"
+     id="a87248"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(11.75,127.5183)"
+       id="g87246">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="M 129,129 H 259 C 259,77 291,29 340,29 350,29 354,21 354,14 354,7 350,0 340,0 291,0 243,14 194,14 145,14 98,0 49,0 39,0 34,7 34,14 c 0,7 5,15 15,15 49,0 80,48 80,100 z M 0,250 129,500 c 3,7 13,3 21,0 14,-6 28,-14 44,-14 16,0 31,8 45,14 2,1 2,1 4,1 8,0 16,-9 16,-21 V 129 H 129 v 215 c 0,15 -11,23 -20,23 -5,0 -9,-2 -11,-7 L 32,233 c -4,-7 -9,-9 -15,-9 -9,0 -19,7 -19,17 0,3 0,6 2,9 z"
+         fill="currentColor"
+         id="path87244" />
+    </g>
+  </a>
+  <g
+     transform="translate(0.80000003,6.7327145)"
+     id="g87252">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 266,-635 h -6 c -108,0 -195,88 -195,197 0,58 53,103 112,103 54,0 95,-47 95,-103 0,-52 -43,-95 -95,-95 -11,0 -21,2 -31,6 26,-39 68,-65 117,-65 h 4 z m 195,432 c 68,24 113,95 113,164 0,90 -66,179 -173,190 24,-116 46,-231 60,-354 z M 74,28 c 0,-135 129,-247 264,-247 28,0 55,2 82,6 C 406,-86 383,32 357,151 278,143 233,90 233,32 c 0,-44 25,-91 81,-123 5,-5 7,-10 7,-15 0,-11 -10,-22 -22,-22 -3,0 -6,1 -9,2 -80,43 -117,115 -117,185 0,88 58,174 160,197 -14,58 -29,117 -46,175 C 180,310 74,188 74,28 Z M 335,-262 C 147,-262 2,-90 2,112 c 0,177 131,306 248,441 -19,62 -37,125 -45,190 -6,52 -7,104 -7,156 0,115 55,224 149,292 6,5 14,5 20,0 71,-84 133,-245 133,-358 0,-143 -86,-255 -180,-364 21,-68 39,-138 56,-207 4,0 9,1 13,1 155,0 256,-128 256,-261 0,-76 -33,-154 -107,-210 -22,-17 -47,-28 -73,-36 3,-35 5,-70 5,-105 0,-19 -1,-39 -2,-58 -7,-119 -88,-225 -202,-228 l 1,43 c 93,2 153,92 159,191 1,18 2,37 2,55 0,31 -1,61 -4,92 -29,-5 -58,-8 -89,-8 z m 93,1178 c 0,55 -4,79 -20,129 -99,-48 -162,-149 -162,-259 0,-74 18,-133 36,-194 80,97 146,198 146,324 z"
+       fill="currentColor"
+       id="path87250" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:64:65"
+     id="a87258"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(26.15,133.745)"
+       id="g87256">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path87254" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:44:45"
+     id="a87264"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(18.95,134.24)"
+       id="g87262">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path87260" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:60:61"
+     id="a87270"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(25.8906,131.0683)"
+       id="g87268">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87266" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:62:63"
+     id="a87276"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(25.8906,130.0683)"
+       id="g87274">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87272" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:66:67"
+     id="a87282"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(26.15,127.5183)"
+       id="g87280">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="M 129,129 H 259 C 259,77 291,29 340,29 350,29 354,21 354,14 354,7 350,0 340,0 291,0 243,14 194,14 145,14 98,0 49,0 39,0 34,7 34,14 c 0,7 5,15 15,15 49,0 80,48 80,100 z M 0,250 129,500 c 3,7 13,3 21,0 14,-6 28,-14 44,-14 16,0 31,8 45,14 2,1 2,1 4,1 8,0 16,-9 16,-21 V 129 H 129 v 215 c 0,15 -11,23 -20,23 -5,0 -9,-2 -11,-7 L 32,233 c -4,-7 -9,-9 -15,-9 -9,0 -19,7 -19,17 0,3 0,6 2,9 z"
+         fill="currentColor"
+         id="path87278" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:70:71"
+     id="a87288"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(29.4906,130.5683)"
+       id="g87286">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87284" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:72:73"
+     id="a87294"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(29.4906,129.5683)"
+       id="g87292">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87290" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:50:51"
+     id="a87300"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(22.2906,131.5683)"
+       id="g87298">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87296" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:52:53"
+     id="a87306"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(22.2906,130.5683)"
+       id="g87304">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path87302" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:56:57"
+     id="a87312"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(22.5159,127.5183)"
+       id="g87310">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path87308" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/AppData/Local/Temp/frescobaldi-qinprpfp/tmptsnuz2do/loose%20examples.ly:161:54:55"
+     id="a87318"
+     transform="translate(-5.6906,-124.33559)">
+    <g
+       transform="translate(22.4817,133.745)"
+       id="g87316">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path87314" />
+    </g>
+  </a>
+</svg>

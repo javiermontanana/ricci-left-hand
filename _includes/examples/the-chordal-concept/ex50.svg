@@ -1,0 +1,1640 @@
+<svg
+   version="1.2"
+   width="149.46632mm"
+   height="23.461208mm"
+   viewBox="0 0 85.054595 13.350723"
+   id="svg142222"
+   sodipodi:docname="loose examples-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs142226" />
+  <sodipodi:namedview
+     id="namedview142224"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <style
+     type="text/css"
+     id="style139642"><![CDATA[
+tspan { white-space: pre; }
+]]></style>
+  <!-- Page: 2/3 -->
+  <g
+     transform="translate(3.1967416e-8,10.484023)"
+     id="g140826">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="85.004601"
+       y2="0"
+       id="line140824" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,9.4840232)"
+     id="g140830">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="85.004601"
+       y2="0"
+       id="line140828" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,8.4840232)"
+     id="g140834">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="85.004601"
+       y2="0"
+       id="line140832" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,7.4840232)"
+     id="g140838">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="85.004601"
+       y2="0"
+       id="line140836" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,6.4840232)"
+     id="g140842">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="85.004601"
+       y2="0"
+       id="line140840" />
+  </g>
+  <g
+     transform="translate(84.8646,8.4840232)"
+     id="g140846">
+    <rect
+       x="0"
+       y="-2"
+       width="0.19"
+       height="4"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect140844" />
+  </g>
+  <g
+     transform="translate(84.3746,8.4840232)"
+     id="g140850">
+    <rect
+       x="0"
+       y="-2"
+       width="0.19"
+       height="4"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect140848" />
+  </g>
+  <g
+     transform="translate(44.1866,8.4840232)"
+     id="g140854">
+    <rect
+       x="0"
+       y="-2"
+       width="0.19"
+       height="4"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect140852" />
+  </g>
+  <g
+     transform="translate(27.0158,8.4840232)"
+     id="g140858">
+    <rect
+       x="0"
+       y="-2"
+       width="0.19"
+       height="4"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect140856" />
+  </g>
+  <g
+     transform="translate(61.6156,7.9840232)"
+     id="g140862">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="M 0,0 C 0,31 25,56 56,56 87,56 112,31 112,0 112,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
+       fill="currentColor"
+       id="path140860" />
+  </g>
+  <g
+     transform="translate(61.6156,8.9840232)"
+     id="g140866">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="M 0,0 C 0,31 25,56 56,56 87,56 112,31 112,0 112,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
+       fill="currentColor"
+       id="path140864" />
+  </g>
+  <g
+     transform="translate(62.8556,8.4840232)"
+     id="g140870">
+    <rect
+       x="0"
+       y="-2"
+       width="0.60000002"
+       height="4"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect140868" />
+  </g>
+  <g
+     transform="translate(62.3656,8.4840232)"
+     id="g140874">
+    <rect
+       x="0"
+       y="-2"
+       width="0.19"
+       height="4"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect140872" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:330:55:56"
+     id="a140880"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(63.602,95.4942)"
+       id="g140878">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path140876" />
+    </g>
+  </a>
+  <g
+     transform="translate(64.4206,8.4840232)"
+     id="g140884">
+    <rect
+       x="-0.064999998"
+       y="0.18610001"
+       width="0.13"
+       height="2.8139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect140882" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:339:13:14"
+     id="a140890"
+     transform="translate(-5.6906,-87.877097)">
+    <g
+       transform="translate(70.3057,92.7498)"
+       id="g140888">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="M 129,129 H 259 C 259,77 291,29 340,29 350,29 354,21 354,14 354,7 350,0 340,0 291,0 243,14 194,14 145,14 98,0 49,0 39,0 34,7 34,14 c 0,7 5,15 15,15 49,0 80,48 80,100 z M 0,250 129,500 c 3,7 13,3 21,0 14,-6 28,-14 44,-14 16,0 31,8 45,14 2,1 2,1 4,1 8,0 16,-9 16,-21 V 129 H 129 v 215 c 0,15 -11,23 -20,23 -5,0 -9,-2 -11,-7 L 32,233 c -4,-7 -9,-9 -15,-9 -9,0 -19,7 -19,17 0,3 0,6 2,9 z"
+         fill="currentColor"
+         id="path140886" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:339:8:9"
+     id="a140896"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(70.0462,96.4942)"
+       id="g140894">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path140892" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:343:13:14"
+     id="a140902"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(70.2374,101.3609)"
+       id="g140900">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path140898" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:343:8:9"
+     id="a140908"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(70.0462,96.4942)"
+       id="g140906">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path140904" />
+    </g>
+  </a>
+  <g
+     transform="translate(57.9764,8.4840232)"
+     id="g140912">
+    <rect
+       x="-0.064999998"
+       y="-1.8139"
+       width="0.13"
+       height="4.8139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect140910" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:330:57:58"
+     id="a140918"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(63.602,94.4942)"
+       id="g140916">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path140914" />
+    </g>
+  </a>
+  <g
+     transform="translate(65.5948,8.4840232)"
+     id="g140922">
+    <rect
+       x="-0.064999998"
+       y="-3.0044"
+       width="0.13"
+       height="2.8183"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect140920" />
+  </g>
+  <g
+     transform="translate(49.2638,8.4840232)"
+     id="g140926">
+    <rect
+       x="-0.064999998"
+       y="-1.8139"
+       width="0.13"
+       height="5.3139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect140924" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:330:24:25"
+     id="a140932"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(54.8894,94.4942)"
+       id="g140930">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path140928" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:330:22:23"
+     id="a140938"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(54.8894,95.4942)"
+       id="g140936">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path140934" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:330:18:19"
+     id="a140944"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(54.8894,96.4942)"
+       id="g140942">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path140940" />
+    </g>
+  </a>
+  <g
+     transform="translate(12.0689,4.9840232)"
+     id="g140948">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="6.2984,-0.2 6.2984,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon140946" />
+  </g>
+  <g
+     transform="translate(15.7731,5.7940232)"
+     id="g140952">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="2.5942,-0.2 2.5942,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon140950" />
+  </g>
+  <g
+     transform="translate(54.2722,8.4840232)"
+     id="g140956">
+    <rect
+       x="-0.064999998"
+       y="-1.8139"
+       width="0.13"
+       height="4.8139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect140954" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:330:46:47"
+     id="a140962"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(59.8978,94.4942)"
+       id="g140960">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path140958" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:330:44:45"
+     id="a140968"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(59.8978,95.4942)"
+       id="g140966">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path140964" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:330:40:41"
+     id="a140974"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(59.8978,96.4942)"
+       id="g140972">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path140970" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:330:51:52"
+     id="a140980"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(63.602,96.4942)"
+       id="g140978">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path140976" />
+    </g>
+  </a>
+  <g
+     transform="translate(51.768,8.4840232)"
+     id="g140984">
+    <rect
+       x="-0.064999998"
+       y="-1.8139"
+       width="0.13"
+       height="5.3139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect140982" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:330:36:37"
+     id="a140990"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(57.3936,94.4942)"
+       id="g140988">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path140986" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:330:34:35"
+     id="a140996"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(57.3936,95.4942)"
+       id="g140994">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path140992" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:330:30:31"
+     id="a141002"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(57.3936,96.4942)"
+       id="g141000">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path140998" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:346:9:10"
+     id="a141008"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(85.411,94.4942)"
+       id="g141006">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141004" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:346:5:6"
+     id="a141014"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(85.411,96.4942)"
+       id="g141012">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141010" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:346:15:16"
+     id="a141020"
+     transform="translate(-5.6906,-90.720303)">
+    <g
+       transform="translate(85.6021,91.8225)"
+       id="g141018">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path141016" />
+    </g>
+  </a>
+  <g
+     transform="translate(77.3596,8.4840232)"
+     id="g141024">
+    <rect
+       x="-0.064999998"
+       y="-3.8055999"
+       width="0.13"
+       height="2.1194999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141022" />
+  </g>
+  <g
+     transform="translate(76.1854,8.4840232)"
+     id="g141028">
+    <rect
+       x="-0.064999998"
+       y="0.18610001"
+       width="0.13"
+       height="2.8139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141026" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:339:31:32"
+     id="a141034"
+     transform="translate(-5.6906,-89.214677)">
+    <g
+       transform="translate(82.0704,91.9486)"
+       id="g141032">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path141030" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:339:33:34"
+     id="a141040"
+     transform="translate(-5.6906,-89.214677)">
+    <g
+       transform="translate(82.0704,90.3219)"
+       id="g141038">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path141036" />
+    </g>
+  </a>
+  <g
+     transform="translate(14.5989,11.174023)"
+     id="g141044">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="2.5942,-0.2 2.5942,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon141042" />
+  </g>
+  <g
+     transform="translate(10.8947,11.984023)"
+     id="g141048">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="6.2984,-0.2 6.2984,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon141046" />
+  </g>
+  <g
+     transform="translate(20.7816,5.4840232)"
+     id="g141052">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="3.7942,-0.2 3.7942,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon141050" />
+  </g>
+  <g
+     transform="translate(19.6074,11.484023)"
+     id="g141056">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="3.7942,-0.2 3.7942,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon141054" />
+  </g>
+  <g
+     transform="translate(31.9708,11.174023)"
+     id="g141060">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="2.5942,-0.2 2.5942,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon141058" />
+  </g>
+  <g
+     transform="translate(28.2666,11.984023)"
+     id="g141064">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="6.2984,-0.2 6.2984,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon141062" />
+  </g>
+  <g
+     transform="translate(36.9792,11.484023)"
+     id="g141068">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="3.7942,-0.2 3.7942,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon141066" />
+  </g>
+  <g
+     transform="translate(49.1988,11.174023)"
+     id="g141072">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="2.5942,-0.2 2.5942,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon141070" />
+  </g>
+  <g
+     transform="translate(45.4946,11.984023)"
+     id="g141076">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="6.2984,-0.2 6.2984,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon141074" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:343:12:13"
+     id="a141082"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(70.0462,99.4942)"
+       id="g141080">
+      <polygon
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="11.8547,-0.2 11.8547,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon141078" />
+    </g>
+  </a>
+  <g
+     transform="translate(54.2072,11.484023)"
+     id="g141086">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="3.7942,-0.2 3.7942,0.2 0.04,0.2 0.04,-0.2 "
+       id="polygon141084" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:339:12:13"
+     id="a141092"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(71.2204,93.4942)"
+       id="g141090">
+      <polygon
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="11.8547,-1.01 11.8547,-0.61 0.04,0.2 0.04,-0.2 "
+         id="polygon141088" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:339:28:29"
+     id="a141098"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(81.811,94.9942)"
+       id="g141096">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141094" />
+    </g>
+  </a>
+  <g
+     transform="translate(79.7854,8.4840232)"
+     id="g141102">
+    <rect
+       x="-0.064999998"
+       y="-1.8139"
+       width="0.13"
+       height="5.1472001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141100" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:346:13:14"
+     id="a141108"
+     transform="translate(-5.6906,-90.720303)">
+    <g
+       transform="translate(85.6021,93.4492)"
+       id="g141106">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path141104" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:343:20:21"
+     id="a141114"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(78.1068,96.4942)"
+       id="g141112">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141110" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:339:22:23"
+     id="a141120"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(78.1068,95.4942)"
+       id="g141118">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141116" />
+    </g>
+  </a>
+  <g
+     transform="translate(69.2991,8.4840232)"
+     id="g141124">
+    <rect
+       x="-0.064999998"
+       y="-3.2567"
+       width="0.13"
+       height="2.5706"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141122" />
+  </g>
+  <g
+     transform="translate(69.4291,8.4840232)"
+     id="g141128">
+    <rect
+       x="-0.064999998"
+       y="0.18610001"
+       width="0.13"
+       height="2.8139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141126" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:339:17:18"
+     id="a141134"
+     transform="translate(-5.6906,-89.214677)">
+    <g
+       transform="translate(73.9758,92.4975)"
+       id="g141132">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path141130" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:339:19:20"
+     id="a141140"
+     transform="translate(-5.6906,-89.214677)">
+    <g
+       transform="translate(73.9758,90.8708)"
+       id="g141138">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path141136" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:339:16:17"
+     id="a141146"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(73.7504,95.9942)"
+       id="g141144">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141142" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:343:24:25"
+     id="a141152"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(81.811,96.4942)"
+       id="g141150">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141148" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:343:16:17"
+     id="a141158"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(75.0547,96.4942)"
+       id="g141156">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141154" />
+    </g>
+  </a>
+  <g
+     transform="translate(73.6554,8.4840232)"
+     id="g141162">
+    <rect
+       x="-0.064999998"
+       y="-3.5532999"
+       width="0.13"
+       height="2.3671999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141160" />
+  </g>
+  <g
+     transform="translate(72.4812,8.4840232)"
+     id="g141166">
+    <rect
+       x="-0.064999998"
+       y="0.18610001"
+       width="0.13"
+       height="2.8139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141164" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:339:23:24"
+     id="a141172"
+     transform="translate(-5.6906,-89.214677)">
+    <g
+       transform="translate(78.3321,92.2009)"
+       id="g141170">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path141168" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:339:25:26"
+     id="a141178"
+     transform="translate(-5.6906,-89.214677)">
+    <g
+       transform="translate(78.3662,90.5742)"
+       id="g141176">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path141174" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:328:21:22"
+     id="a141184"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(25.298,96.4942)"
+       id="g141182">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141180" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:324:22:23"
+     id="a141190"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(25.298,96.4942)"
+       id="g141188">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141186" />
+    </g>
+  </a>
+  <g
+     transform="translate(17.1681,8.4840232)"
+     id="g141194">
+    <rect
+       x="-0.064999998"
+       y="0.18610001"
+       width="0.13"
+       height="3.3139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141192" />
+  </g>
+  <g
+     transform="translate(20.8466,8.4840232)"
+     id="g141198">
+    <rect
+       x="-0.064999998"
+       y="-3"
+       width="0.13"
+       height="2.8139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141196" />
+  </g>
+  <g
+     transform="translate(18.3424,8.4840232)"
+     id="g141202">
+    <rect
+       x="-0.064999998"
+       y="-3.5"
+       width="0.13"
+       height="3.3139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141200" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:328:17:18"
+     id="a141208"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(22.7937,96.4942)"
+       id="g141206">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141204" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:324:18:19"
+     id="a141214"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(22.7937,96.4942)"
+       id="g141212">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141210" />
+    </g>
+  </a>
+  <g
+     transform="translate(23.3766,8.4840232)"
+     id="g141218">
+    <rect
+       x="-0.064999998"
+       y="0.18610001"
+       width="0.13"
+       height="2.8139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141216" />
+  </g>
+  <g
+     transform="translate(24.5508,8.4840232)"
+     id="g141222">
+    <rect
+       x="-0.064999998"
+       y="-3"
+       width="0.13"
+       height="2.8139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141220" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:328:26:27"
+     id="a141228"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(29.0022,96.4942)"
+       id="g141226">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141224" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:324:27:28"
+     id="a141234"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(29.0022,96.4942)"
+       id="g141232">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141230" />
+    </g>
+  </a>
+  <g
+     transform="translate(19.6724,8.4840232)"
+     id="g141238">
+    <rect
+       x="-0.064999998"
+       y="0.18610001"
+       width="0.13"
+       height="2.8139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141236" />
+  </g>
+  <g
+     transform="translate(12.1339,8.4840232)"
+     id="g141242">
+    <rect
+       x="-0.064999998"
+       y="-3.5"
+       width="0.13"
+       height="3.3139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141240" />
+  </g>
+  <g
+     transform="translate(10.9597,8.4840232)"
+     id="g141246">
+    <rect
+       x="-0.064999998"
+       y="0.18610001"
+       width="0.13"
+       height="3.3139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141244" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:320:4:5"
+     id="a141256"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(13.0489,96.4942)"
+       id="g141250">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 103,135 c 9,2 17,3 26,3 33,0 70,-11 105,-36 21,-15 46,-23 66,-23 21,0 39,9 44,29 2,6 6,9 11,9 6,0 12,-5 12,-12 C 367,38 277,0 229,0 193,0 158,14 133,44 120,60 102,66 85,66 55,66 26,46 23,11 22,4 17,0 12,0 6,0 0,4 0,11 c 0,175 235,165 235,344 0,60 -18,122 -70,122 -26,0 -51,-14 -51,-37 0,-27 35,-41 35,-68 0,-38 -30,-69 -68,-69 -38,0 -69,31 -69,69 0,76 72,128 153,128 96,0 187,-56 187,-145 C 352,202 201,196 103,135 Z"
+         fill="currentColor"
+         id="path141248" />
+    </g>
+    <g
+       transform="translate(12.9806,98.5428)"
+       id="g141254">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 196,117 h 117 c 0,-48 27,-94 72,-94 8,0 12,-5 12,-11 C 397,6 393,0 385,0 341,0 298,13 254,13 210,13 167,0 123,0 c -8,0 -12,6 -12,12 0,6 4,11 12,11 45,0 73,46 73,94 z m 8,190 c 22,14 44,29 60,50 11,15 19,33 27,50 2,4 5,6 9,6 6,0 13,-5 13,-14 V 154 h 72 c 10,0 15,-7 15,-14 0,-7 -5,-15 -15,-15 h -72 v -8 H 196 v 8 H 29 c -23,0 -31,14 -31,23 0,3 1,5 2,6 80,93 138,207 138,330 0,10 7,19 16,16 23,-7 47,-13 71,-13 24,0 48,6 71,13 14,4 23,-9 17,-16 L 29,154 h 167 v 131 c 0,8 1,17 8,22 z"
+         fill="currentColor"
+         id="path141252" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:319:4:5"
+     id="a141266"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(10.1106,96.4942)"
+       id="g141260">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 27,41 -1,-66 v -11 c 0,-22 1,-44 4,-66 45,38 93,80 93,139 0,33 -14,67 -43,67 C 49,104 28,74 27,41 Z m -42,-179 -12,595 c 8,5 18,8 27,8 9,0 19,-3 27,-8 L 20,112 c 25,21 58,34 91,34 52,0 89,-48 89,-102 0,-80 -86,-117 -147,-169 -15,-13 -24,-38 -45,-38 -13,0 -23,11 -23,25 z"
+         fill="currentColor"
+         id="path141258" />
+    </g>
+    <g
+       transform="translate(11.0306,94.9942)"
+       id="g141264">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 27,41 -1,-66 v -11 c 0,-22 1,-44 4,-66 45,38 93,80 93,139 0,33 -14,67 -43,67 C 49,104 28,74 27,41 Z m -42,-179 -12,595 c 8,5 18,8 27,8 9,0 19,-3 27,-8 L 20,112 c 25,21 58,34 91,34 52,0 89,-48 89,-102 0,-80 -86,-117 -147,-169 -15,-13 -24,-38 -45,-38 -13,0 -23,11 -23,25 z"
+         fill="currentColor"
+         id="path141262" />
+    </g>
+  </a>
+  <g
+     transform="translate(0.80000003,9.4840232)"
+     id="g141270">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 266,-635 h -6 c -108,0 -195,88 -195,197 0,58 53,103 112,103 54,0 95,-47 95,-103 0,-52 -43,-95 -95,-95 -11,0 -21,2 -31,6 26,-39 68,-65 117,-65 h 4 z m 195,432 c 68,24 113,95 113,164 0,90 -66,179 -173,190 24,-116 46,-231 60,-354 z M 74,28 c 0,-135 129,-247 264,-247 28,0 55,2 82,6 C 406,-86 383,32 357,151 278,143 233,90 233,32 c 0,-44 25,-91 81,-123 5,-5 7,-10 7,-15 0,-11 -10,-22 -22,-22 -3,0 -6,1 -9,2 -80,43 -117,115 -117,185 0,88 58,174 160,197 -14,58 -29,117 -46,175 C 180,310 74,188 74,28 Z M 335,-262 C 147,-262 2,-90 2,112 c 0,177 131,306 248,441 -19,62 -37,125 -45,190 -6,52 -7,104 -7,156 0,115 55,224 149,292 6,5 14,5 20,0 71,-84 133,-245 133,-358 0,-143 -86,-255 -180,-364 21,-68 39,-138 56,-207 4,0 9,1 13,1 155,0 256,-128 256,-261 0,-76 -33,-154 -107,-210 -22,-17 -47,-28 -73,-36 3,-35 5,-70 5,-105 0,-19 -1,-39 -2,-58 -7,-119 -88,-225 -202,-228 l 1,43 c 93,2 153,92 159,191 1,18 2,37 2,55 0,31 -1,61 -4,92 -29,-5 -58,-8 -89,-8 z m 93,1178 c 0,55 -4,79 -20,129 -99,-48 -162,-149 -162,-259 0,-74 18,-133 36,-194 80,97 146,198 146,324 z"
+       fill="currentColor"
+       id="path141268" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:328:6:7"
+     id="a141276"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(16.5853,96.4942)"
+       id="g141274">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141272" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:324:6:7"
+     id="a141282"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(16.5853,96.4942)"
+       id="g141280">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141278" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:324:12:13"
+     id="a141288"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(20.2895,96.4942)"
+       id="g141286">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141284" />
+    </g>
+  </a>
+  <g
+     transform="translate(14.6639,8.4840232)"
+     id="g141292">
+    <rect
+       x="-0.064999998"
+       y="0.18610001"
+       width="0.13"
+       height="3.3139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141290" />
+  </g>
+  <g
+     transform="translate(15.8381,8.4840232)"
+     id="g141296">
+    <rect
+       x="-0.064999998"
+       y="-3.5"
+       width="0.13"
+       height="3.3139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141294" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:328:11:12"
+     id="a141302"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(20.2895,96.4942)"
+       id="g141300">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141298" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:329:30:31"
+     id="a141308"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(40.1656,96.4942)"
+       id="g141306">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141304" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:329:38:39"
+     id="a141314"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(42.6698,96.4942)"
+       id="g141312">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141310" />
+    </g>
+  </a>
+  <g
+     transform="translate(34.54,8.4840232)"
+     id="g141318">
+    <rect
+       x="-0.064999998"
+       y="-0.81389999"
+       width="0.13"
+       height="4.3139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141316" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:329:34:35"
+     id="a141324"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(40.1656,95.4942)"
+       id="g141322">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141320" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:329:42:43"
+     id="a141330"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(42.6698,95.4942)"
+       id="g141328">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141326" />
+    </g>
+  </a>
+  <g
+     transform="translate(32.0358,8.4840232)"
+     id="g141334">
+    <rect
+       x="-0.064999998"
+       y="-0.81389999"
+       width="0.13"
+       height="4.3139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141332" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:329:24:25"
+     id="a141340"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(37.6614,95.4942)"
+       id="g141338">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141336" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:329:20:21"
+     id="a141346"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(37.6614,96.4942)"
+       id="g141344">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141342" />
+    </g>
+  </a>
+  <g
+     transform="translate(40.7484,8.4840232)"
+     id="g141350">
+    <rect
+       x="-0.064999998"
+       y="-0.81389999"
+       width="0.13"
+       height="3.8139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141348" />
+  </g>
+  <g
+     transform="translate(45.5596,8.4840232)"
+     id="g141354">
+    <rect
+       x="-0.064999998"
+       y="-1.8139"
+       width="0.13"
+       height="5.3139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141352" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:330:13:14"
+     id="a141360"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(51.1852,94.4942)"
+       id="g141358">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141356" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:330:11:12"
+     id="a141366"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(51.1852,95.4942)"
+       id="g141364">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141362" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:330:7:8"
+     id="a141372"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(51.1852,96.4942)"
+       id="g141370">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141368" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:329:51:52"
+     id="a141378"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(46.374,95.4942)"
+       id="g141376">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141374" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:329:47:48"
+     id="a141384"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(46.374,96.4942)"
+       id="g141382">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141380" />
+    </g>
+  </a>
+  <g
+     transform="translate(37.0442,8.4840232)"
+     id="g141388">
+    <rect
+       x="-0.064999998"
+       y="-0.81389999"
+       width="0.13"
+       height="3.8139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141386" />
+  </g>
+  <g
+     transform="translate(28.3316,8.4840232)"
+     id="g141392">
+    <rect
+       x="-0.064999998"
+       y="-0.81389999"
+       width="0.13"
+       height="4.3139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect141390" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:329:14:15"
+     id="a141398"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(34.1483,93.9442)"
+       id="g141396">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path141394" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:329:16:17"
+     id="a141404"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(34.2166,92.3175)"
+       id="g141402">
+      <path
+         transform="scale(0.0022,-0.0022)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path141400" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:329:11:12"
+     id="a141410"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(33.9572,95.4942)"
+       id="g141408">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141406" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/loose%20examples.ly:329:7:8"
+     id="a141416"
+     transform="translate(-5.6906,-88.010177)">
+    <g
+       transform="translate(33.9572,96.4942)"
+       id="g141414">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path141412" />
+    </g>
+  </a>
+  <path
+     style="fill:#000000;stroke:#000000;stroke-width:0.0938941"
+     d="m 65.932163,12.852863 14.68835,-0.13642"
+     id="path142228" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-width:0.0938941"
+     d="M 65.799832,4.3471572 80.837841,3.7882222"
+     id="path142236" />
+</svg>

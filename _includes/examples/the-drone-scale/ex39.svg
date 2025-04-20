@@ -1,0 +1,3824 @@
+<!-- <?xml version="1.0" encoding="UTF-8" standalone="no"?> -->
+<svg
+   version="1.2"
+   width="190mm"
+   height="47.801174mm"
+   viewBox="0 0 108.1205 27.201508"
+   id="svg134403"
+   sodipodi:docname="ricci left hand examples-6.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs134407" />
+  <sodipodi:namedview
+     id="namedview134405"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <style
+     type="text/css"
+     id="style128413"><![CDATA[
+tspan { white-space: pre; }
+]]></style>
+  <!-- Page: 6/6 -->
+  <g
+     transform="translate(3.1967416e-8,11.363502)"
+     id="g132475">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.0966"
+       stroke="currentColor"
+       x1="0.048300002"
+       y1="0"
+       x2="108.0722"
+       y2="0"
+       id="line132473" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,10.463502)"
+     id="g132479">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.0966"
+       stroke="currentColor"
+       x1="0.048300002"
+       y1="0"
+       x2="108.0722"
+       y2="0"
+       id="line132477" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,9.5635022)"
+     id="g132483">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.0966"
+       stroke="currentColor"
+       x1="0.048300002"
+       y1="0"
+       x2="108.0722"
+       y2="0"
+       id="line132481" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,8.6635022)"
+     id="g132487">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.0966"
+       stroke="currentColor"
+       x1="0.048300002"
+       y1="0"
+       x2="108.0722"
+       y2="0"
+       id="line132485" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,7.7635022)"
+     id="g132491">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.0966"
+       stroke="currentColor"
+       x1="0.048300002"
+       y1="0"
+       x2="108.0722"
+       y2="0"
+       id="line132489" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,5.0635022)"
+     id="g132495">
+    <rect
+       x="103.9095"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect132493" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,5.9635022)"
+     id="g132499">
+    <rect
+       x="103.9095"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect132497" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,6.8635022)"
+     id="g132503">
+    <rect
+       x="103.9095"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect132501" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,5.9635022)"
+     id="g132507">
+    <rect
+       x="100.2934"
+       y="-0.0933"
+       width="1.6407"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect132505" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,6.8635022)"
+     id="g132511">
+    <rect
+       x="100.1752"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect132509" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,5.9635022)"
+     id="g132515">
+    <rect
+       x="95.700897"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect132513" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,6.8635022)"
+     id="g132519">
+    <rect
+       x="95.700897"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect132517" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,5.9635022)"
+     id="g132523">
+    <rect
+       x="92.084702"
+       y="-0.0933"
+       width="1.6407"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect132521" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,6.8635022)"
+     id="g132527">
+    <rect
+       x="91.966599"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect132525" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,5.9635022)"
+     id="g132531">
+    <rect
+       x="87.492302"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect132529" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,6.8635022)"
+     id="g132535">
+    <rect
+       x="87.492302"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect132533" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,6.8635022)"
+     id="g132539">
+    <rect
+       x="83.868202"
+       y="-0.0933"
+       width="1.6486"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect132537" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,6.8635022)"
+     id="g132543">
+    <rect
+       x="79.657799"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect132541" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,6.8635022)"
+     id="g132547">
+    <rect
+       x="75.9235"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect132545" />
+  </g>
+  <g
+     transform="translate(58.1296,9.5635022)"
+     id="g132551">
+    <rect
+       x="0"
+       y="-1.8"
+       width="0.18350001"
+       height="3.5999999"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect132549" />
+  </g>
+  <g
+     transform="translate(107.9369,9.5635022)"
+     id="g132555">
+    <rect
+       x="0"
+       y="-1.8"
+       width="0.18350001"
+       height="3.5999999"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect132553" />
+  </g>
+  <g
+     transform="translate(65.3834,9.5635022)"
+     id="g132559">
+    <rect
+       x="-0.062799998"
+       y="-4.7677002"
+       width="0.12549999"
+       height="2.8062999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132557" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:18:19"
+     id="a132565"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(70.175,111.7246)"
+       id="g132563">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path132561" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:15:16"
+     id="a132571"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(69.9643,116.4353)"
+       id="g132569">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132567" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:71:72"
+     id="a132577"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(56.3287,117.3353)"
+       id="g132575">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132573" />
+    </g>
+  </a>
+  <g
+     transform="translate(73.5921,9.5635022)"
+     id="g132581">
+    <rect
+       x="-0.062799998"
+       y="-4.9485998"
+       width="0.12549999"
+       height="2.5372"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132579" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:28:29"
+     id="a132587"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(78.3836,112.6207)"
+       id="g132585">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path132583" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:25:26"
+     id="a132593"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(78.1729,115.9853)"
+       id="g132591">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132589" />
+    </g>
+  </a>
+  <g
+     transform="translate(69.1177,9.5635022)"
+     id="g132597">
+    <rect
+       x="-0.062799998"
+       y="-4.8499999"
+       width="0.12549999"
+       height="2.4386001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132595" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:22:23"
+     id="a132603"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(73.9263,111.2741)"
+       id="g132601">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="M 129,129 H 259 C 259,77 291,29 340,29 350,29 354,21 354,14 354,7 350,0 340,0 291,0 243,14 194,14 145,14 98,0 49,0 39,0 34,7 34,14 c 0,7 5,15 15,15 49,0 80,48 80,100 z M 0,250 129,500 c 3,7 13,3 21,0 14,-6 28,-14 44,-14 16,0 31,8 45,14 2,1 2,1 4,1 8,0 16,-9 16,-21 V 129 H 129 v 215 c 0,15 -11,23 -20,23 -5,0 -9,-2 -11,-7 L 32,233 c -4,-7 -9,-9 -15,-9 -9,0 -19,7 -19,17 0,3 0,6 2,9 z"
+         fill="currentColor"
+         id="path132599" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:21:22"
+     id="a132609"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(73.6986,115.9853)"
+       id="g132607">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132605" />
+    </g>
+  </a>
+  <g
+     transform="translate(62.9337,7.7635022)"
+     id="g132613">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 217,-311 c 0,-11 -8,-19 -19,-19 -11,0 -20,8 -20,19 v 142 l -81,-30 v -156 c 0,-11 -9,-20 -20,-20 -11,0 -19,9 -19,20 v 142 l -28,-11 c -3,-1 -5,-1 -8,-1 -12,0 -22,10 -22,23 v 57 c 0,9 6,18 15,21 l 43,16 V 49 L 30,39 C 27,38 25,38 22,38 10,38 0,47 0,60 v 57 c 0,9 6,18 15,21 l 43,16 v 157 c 0,11 8,19 19,19 11,0 20,-8 20,-19 V 169 l 81,30 v 156 c 0,11 9,20 20,20 11,0 19,-9 19,-20 V 213 l 28,11 c 3,1 5,1 8,1 12,0 22,-10 22,-23 v -57 c 0,-9 -6,-18 -15,-21 L 217,108 V -49 l 28,10 c 3,1 5,1 8,1 12,0 22,-9 22,-22 v -57 c 0,-9 -6,-18 -15,-21 l -43,-16 z M 97,64 V -94 l 81,30 V 94 Z"
+       fill="currentColor"
+       id="path132611" />
+  </g>
+  <g
+     transform="translate(55.4822,9.5635022)"
+     id="g132617">
+    <rect
+       x="-0.062799998"
+       y="-4.0476999"
+       width="0.12549999"
+       height="2.5362"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132615" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:81:82"
+     id="a132623"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(60.2737,113.0898)"
+       id="g132621">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 190,464 c -54,0 -61,-71 -61,-141 v -73 -73 c 0,-70 7,-141 61,-141 54,0 62,71 62,141 0,26 -1,51 -1,73 0,22 1,47 1,73 0,70 -8,141 -62,141 z m 0,36 C 308,500 380,378 380,250 380,122 308,0 190,0 72,0 0,122 0,250 0,378 72,500 190,500 Z"
+         fill="currentColor"
+         id="path132619" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:83:84"
+     id="a132629"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(60.2737,111.6155)"
+       id="g132627">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 190,464 c -54,0 -61,-71 -61,-141 v -73 -73 c 0,-70 7,-141 61,-141 54,0 62,71 62,141 0,26 -1,51 -1,73 0,22 1,47 1,73 0,70 -8,141 -62,141 z m 0,36 C 308,500 380,378 380,250 380,122 308,0 190,0 72,0 0,122 0,250 0,378 72,500 190,500 Z"
+         fill="currentColor"
+         id="path132625" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:79:80"
+     id="a132635"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(60.063,116.8853)"
+       id="g132633">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132631" />
+    </g>
+  </a>
+  <g
+     transform="translate(49.2981,8.6635022)"
+     id="g132639">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 217,-311 c 0,-11 -8,-19 -19,-19 -11,0 -20,8 -20,19 v 142 l -81,-30 v -156 c 0,-11 -9,-20 -20,-20 -11,0 -19,9 -19,20 v 142 l -28,-11 c -3,-1 -5,-1 -8,-1 -12,0 -22,10 -22,23 v 57 c 0,9 6,18 15,21 l 43,16 V 49 L 30,39 C 27,38 25,38 22,38 10,38 0,47 0,60 v 57 c 0,9 6,18 15,21 l 43,16 v 157 c 0,11 8,19 19,19 11,0 20,-8 20,-19 V 169 l 81,30 v 156 c 0,11 9,20 20,20 11,0 19,-9 19,-20 V 213 l 28,11 c 3,1 5,1 8,1 12,0 22,-10 22,-23 v -57 c 0,-9 -6,-18 -15,-21 L 217,108 V -49 l 28,10 c 3,1 5,1 8,1 12,0 22,-9 22,-22 v -57 c 0,-9 -6,-18 -15,-21 l -43,-16 z M 97,64 V -94 l 81,30 V 94 Z"
+       fill="currentColor"
+       id="path132637" />
+  </g>
+  <g
+     transform="translate(51.7479,9.5635022)"
+     id="g132643">
+    <rect
+       x="-0.062799998"
+       y="-3.9084001"
+       width="0.12549999"
+       height="2.8469999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132641" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:74:75"
+     id="a132649"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(56.4882,112.8284)"
+       id="g132647">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path132645" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:76:77"
+     id="a132655"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(56.5735,111.3541)"
+       id="g132653">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path132651" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:11:12"
+     id="a132661"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(15.6598,118.2353)"
+       id="g132659">
+      <path
+         stroke-width="0.0773"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 1.0885,-2.2991 c 2.7791,-1.8939 41.4353,-3.996 44.4033,-2.4146 v 0 C 42.5301,-6.1794 3.8739,-4.0773 1.0885,-2.2991 Z"
+         id="path132657" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:12:13"
+     id="a132667"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(65.7177,112.9002)"
+       id="g132665">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="M 129,129 H 259 C 259,77 291,29 340,29 350,29 354,21 354,14 354,7 350,0 340,0 291,0 243,14 194,14 145,14 98,0 49,0 39,0 34,7 34,14 c 0,7 5,15 15,15 49,0 80,48 80,100 z M 0,250 129,500 c 3,7 13,3 21,0 14,-6 28,-14 44,-14 16,0 31,8 45,14 2,1 2,1 4,1 8,0 16,-9 16,-21 V 129 H 129 v 215 c 0,15 -11,23 -20,23 -5,0 -9,-2 -11,-7 L 32,233 c -4,-7 -9,-9 -15,-9 -9,0 -19,7 -19,17 0,3 0,6 2,9 z"
+         fill="currentColor"
+         id="path132663" />
+    </g>
+  </a>
+  <g
+     transform="translate(59.8621,9.5635022)"
+     id="g132671">
+    <rect
+       x="-0.062799998"
+       y="0.67769998"
+       width="0.12549999"
+       height="2.6222999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132669" />
+  </g>
+  <g
+     transform="translate(61.4433,10.013502)"
+     id="g132675">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="M 0,0 C 0,31 25,56 56,56 87,56 111,31 111,0 111,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
+       fill="currentColor"
+       id="path132673" />
+  </g>
+  <g
+     transform="translate(60.9091,9.5635022)"
+     id="g132679">
+    <rect
+       x="-0.062799998"
+       y="-4.6690998"
+       width="0.12549999"
+       height="2.7077"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132677" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:960:11:12"
+     id="a132685"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(65.49,118.6853)"
+       id="g132683">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 312,64 c 0,24 -20,41 -41,41 -4,0 -8,-1 -12,-2 C 229,94 182,65 146,41 110,17 63,-13 43,-37 36,-45 33,-54 33,-64 c 0,-24 20,-41 41,-41 4,0 8,1 12,2 30,9 77,38 113,62 36,24 83,54 103,78 7,8 10,17 10,27 z m -53,73 c 48,0 86,-22 86,-74 0,-18 -4,-38 -10,-56 -12,-38 -30,-73 -63,-95 -53,-36 -113,-49 -186,-49 -48,0 -86,22 -86,74 0,18 4,38 10,56 12,38 31,73 64,95 53,36 112,49 185,49 z"
+         fill="currentColor"
+         id="path132681" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:8:9"
+     id="a132691"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(65.49,116.4353)"
+       id="g132689">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132687" />
+    </g>
+  </a>
+  <g
+     transform="translate(101.5781,9.5635022)"
+     id="g132695">
+    <rect
+       x="-0.062799998"
+       y="-7.0584002"
+       width="0.12549999"
+       height="2.8469999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132693" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:62:63"
+     id="a132701"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(106.4037,109.6924)"
+       id="g132699">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path132697" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:59:60"
+     id="a132707"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(106.1589,114.1853)"
+       id="g132705">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132703" />
+    </g>
+  </a>
+  <g
+     transform="translate(97.1038,9.5635022)"
+     id="g132711">
+    <rect
+       x="-0.062799998"
+       y="-6.8916001"
+       width="0.12549999"
+       height="2.6802001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132709" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:56:57"
+     id="a132717"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(101.8953,109.6718)"
+       id="g132715">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path132713" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:55:56"
+     id="a132723"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(101.6846,114.1853)"
+       id="g132721">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132719" />
+    </g>
+  </a>
+  <g
+     transform="translate(90.9197,5.9635022)"
+     id="g132727">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 217,-311 c 0,-11 -8,-19 -19,-19 -11,0 -20,8 -20,19 v 142 l -81,-30 v -156 c 0,-11 -9,-20 -20,-20 -11,0 -19,9 -19,20 v 142 l -28,-11 c -3,-1 -5,-1 -8,-1 -12,0 -22,10 -22,23 v 57 c 0,9 6,18 15,21 l 43,16 V 49 L 30,39 C 27,38 25,38 22,38 10,38 0,47 0,60 v 57 c 0,9 6,18 15,21 l 43,16 v 157 c 0,11 8,19 19,19 11,0 20,-8 20,-19 V 169 l 81,30 v 156 c 0,11 9,20 20,20 11,0 19,-9 19,-20 V 213 l 28,11 c 3,1 5,1 8,1 12,0 22,-10 22,-23 v -57 c 0,-9 -6,-18 -15,-21 L 217,108 V -49 l 28,10 c 3,1 5,1 8,1 12,0 22,-9 22,-22 v -57 c 0,-9 -6,-18 -15,-21 l -43,-16 z M 97,64 V -94 l 81,30 V 94 Z"
+       fill="currentColor"
+       id="path132725" />
+  </g>
+  <g
+     transform="translate(11.0161,7.9312022)"
+     id="g132731">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="12.7685,-0.3437 12.7685,0.0083 0.04,0.176 0.04,-0.176 "
+       id="polygon132729" />
+  </g>
+  <g
+     transform="translate(11.0161,8.6635022)"
+     id="g132735">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="12.7685,-0.3437 12.7685,0.0083 0.04,0.176 0.04,-0.176 "
+       id="polygon132733" />
+  </g>
+  <g
+     transform="translate(27.4334,6.8635022)"
+     id="g132739">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="11.6543,-0.626 11.6543,-0.274 0.04,0.176 0.04,-0.176 "
+       id="polygon132737" />
+  </g>
+  <g
+     transform="translate(27.4334,7.5958022)"
+     id="g132743">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="11.6543,-0.626 11.6543,-0.274 0.04,0.176 0.04,-0.176 "
+       id="polygon132741" />
+  </g>
+  <g
+     transform="translate(43.4765,5.9635022)"
+     id="g132747">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="12.0285,-0.626 12.0285,-0.274 0.04,0.176 0.04,-0.176 "
+       id="polygon132745" />
+  </g>
+  <g
+     transform="translate(43.4765,6.6958022)"
+     id="g132751">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="12.0285,-0.626 12.0285,-0.274 0.04,0.176 0.04,-0.176 "
+       id="polygon132749" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:11:12"
+     id="a132757"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(65.49,118.2353)"
+       id="g132755">
+      <path
+         stroke-width="0.0773"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 1.0875,-5.3351 c 2.7743,-1.9011 41.4311,-4.1024 44.4033,-2.5286 v 0 C 42.5252,-9.3218 3.8684,-7.1205 1.0875,-5.3351 Z"
+         id="path132753" />
+    </g>
+  </a>
+  <g
+     transform="translate(60.8463,4.8958022)"
+     id="g132761">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="12.7685,-0.4583 12.7685,-0.1063 0.04,0.176 0.04,-0.176 "
+       id="polygon132759" />
+  </g>
+  <g
+     transform="translate(60.8463,5.6281022)"
+     id="g132765">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="12.7685,-0.4583 12.7685,-0.1063 0.04,0.176 0.04,-0.176 "
+       id="polygon132763" />
+  </g>
+  <g
+     transform="translate(77.2636,3.7135022)"
+     id="g132769">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="11.6543,-0.626 11.6543,-0.274 0.04,0.176 0.04,-0.176 "
+       id="polygon132767" />
+  </g>
+  <g
+     transform="translate(77.2636,4.4458022)"
+     id="g132773">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="11.6543,-0.626 11.6543,-0.274 0.04,0.176 0.04,-0.176 "
+       id="polygon132771" />
+  </g>
+  <g
+     transform="translate(93.3067,2.8135022)"
+     id="g132777">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="12.0285,-0.626 12.0285,-0.274 0.04,0.176 0.04,-0.176 "
+       id="polygon132775" />
+  </g>
+  <g
+     transform="translate(93.3067,3.5458022)"
+     id="g132781">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="12.0285,-0.626 12.0285,-0.274 0.04,0.176 0.04,-0.176 "
+       id="polygon132779" />
+  </g>
+  <g
+     transform="translate(105.3124,9.5635022)"
+     id="g132785">
+    <rect
+       x="-0.062799998"
+       y="-7.1977"
+       width="0.12549999"
+       height="2.5362"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132783" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:67:68"
+     id="a132791"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(110.1381,109.9478)"
+       id="g132789">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path132787" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:65:66"
+     id="a132797"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(109.8932,113.7353)"
+       id="g132795">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132793" />
+    </g>
+  </a>
+  <g
+     transform="translate(99.1283,5.5135022)"
+     id="g132801">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 217,-311 c 0,-11 -8,-19 -19,-19 -11,0 -20,8 -20,19 v 142 l -81,-30 v -156 c 0,-11 -9,-20 -20,-20 -11,0 -19,9 -19,20 v 142 l -28,-11 c -3,-1 -5,-1 -8,-1 -12,0 -22,10 -22,23 v 57 c 0,9 6,18 15,21 l 43,16 V 49 L 30,39 C 27,38 25,38 22,38 10,38 0,47 0,60 v 57 c 0,9 6,18 15,21 l 43,16 v 157 c 0,11 8,19 19,19 11,0 20,-8 20,-19 V 169 l 81,30 v 156 c 0,11 9,20 20,20 11,0 19,-9 19,-20 V 213 l 28,11 c 3,1 5,1 8,1 12,0 22,-10 22,-23 v -57 c 0,-9 -6,-18 -15,-21 L 217,108 V -49 l 28,10 c 3,1 5,1 8,1 12,0 22,-9 22,-22 v -57 c 0,-9 -6,-18 -15,-21 l -43,-16 z M 97,64 V -94 l 81,30 V 94 Z"
+       fill="currentColor"
+       id="path132799" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:42:43"
+     id="a132807"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(89.9694,110.0687)"
+       id="g132805">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="M 129,129 H 259 C 259,77 291,29 340,29 350,29 354,21 354,14 354,7 350,0 340,0 291,0 243,14 194,14 145,14 98,0 49,0 39,0 34,7 34,14 c 0,7 5,15 15,15 49,0 80,48 80,100 z M 0,250 129,500 c 3,7 13,3 21,0 14,-6 28,-14 44,-14 16,0 31,8 45,14 2,1 2,1 4,1 8,0 16,-9 16,-21 V 129 H 129 v 215 c 0,15 -11,23 -20,23 -5,0 -9,-2 -11,-7 L 32,233 c -4,-7 -9,-9 -15,-9 -9,0 -19,7 -19,17 0,3 0,6 2,9 z"
+         fill="currentColor"
+         id="path132803" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:41:42"
+     id="a132813"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(89.7417,115.0853)"
+       id="g132811">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132809" />
+    </g>
+  </a>
+  <g
+     transform="translate(81.0607,9.5635022)"
+     id="g132817">
+    <rect
+       x="-0.062799998"
+       y="-5.9960999"
+       width="0.12549999"
+       height="2.6847"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132815" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:38:39"
+     id="a132823"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(85.8522,110.3018)"
+       id="g132821">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path132819" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:35:36"
+     id="a132829"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(85.6415,115.0853)"
+       id="g132827">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132825" />
+    </g>
+  </a>
+  <g
+     transform="translate(85.1608,9.5635022)"
+     id="g132833">
+    <rect
+       x="-0.062799998"
+       y="-6.1539001"
+       width="0.12549999"
+       height="2.8425"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132831" />
+  </g>
+  <g
+     transform="translate(77.3264,9.5635022)"
+     id="g132837">
+    <rect
+       x="-0.062799998"
+       y="-5.8523998"
+       width="0.12549999"
+       height="2.9909999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132835" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:32:33"
+     id="a132843"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(82.135,110.5553)"
+       id="g132841">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="M 129,129 H 259 C 259,77 291,29 340,29 350,29 354,21 354,14 354,7 350,0 340,0 291,0 243,14 194,14 145,14 98,0 49,0 39,0 34,7 34,14 c 0,7 5,15 15,15 49,0 80,48 80,100 z M 0,250 129,500 c 3,7 13,3 21,0 14,-6 28,-14 44,-14 16,0 31,8 45,14 2,1 2,1 4,1 8,0 16,-9 16,-21 V 129 H 129 v 215 c 0,15 -11,23 -20,23 -5,0 -9,-2 -11,-7 L 32,233 c -4,-7 -9,-9 -15,-9 -9,0 -19,7 -19,17 0,3 0,6 2,9 z"
+         fill="currentColor"
+         id="path132839" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:31:32"
+     id="a132849"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(81.9072,115.5353)"
+       id="g132847">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132845" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:46:47"
+     id="a132855"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(93.6867,109.8935)"
+       id="g132853">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path132851" />
+    </g>
+  </a>
+  <g
+     transform="translate(93.3694,9.5635022)"
+     id="g132859">
+    <rect
+       x="-0.062799998"
+       y="-6.7522998"
+       width="0.12549999"
+       height="2.9909"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132857" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:52:53"
+     id="a132865"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(98.178,109.7404)"
+       id="g132863">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="M 129,129 H 259 C 259,77 291,29 340,29 350,29 354,21 354,14 354,7 350,0 340,0 291,0 243,14 194,14 145,14 98,0 49,0 39,0 34,7 34,14 c 0,7 5,15 15,15 49,0 80,48 80,100 z M 0,250 129,500 c 3,7 13,3 21,0 14,-6 28,-14 44,-14 16,0 31,8 45,14 2,1 2,1 4,1 8,0 16,-9 16,-21 V 129 H 129 v 215 c 0,15 -11,23 -20,23 -5,0 -9,-2 -11,-7 L 32,233 c -4,-7 -9,-9 -15,-9 -9,0 -19,7 -19,17 0,3 0,6 2,9 z"
+         fill="currentColor"
+         id="path132861" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:49:50"
+     id="a132871"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(97.9503,114.6353)"
+       id="g132869">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132867" />
+    </g>
+  </a>
+  <g
+     transform="translate(88.8951,9.5635022)"
+     id="g132875">
+    <rect
+       x="-0.062799998"
+       y="-6.2975998"
+       width="0.12549999"
+       height="2.5362"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132873" />
+  </g>
+  <g
+     transform="translate(71.1423,7.3135022)"
+     id="g132879">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 217,-311 c 0,-11 -8,-19 -19,-19 -11,0 -20,8 -20,19 v 142 l -81,-30 v -156 c 0,-11 -9,-20 -20,-20 -11,0 -19,9 -19,20 v 142 l -28,-11 c -3,-1 -5,-1 -8,-1 -12,0 -22,10 -22,23 v 57 c 0,9 6,18 15,21 l 43,16 V 49 L 30,39 C 27,38 25,38 22,38 10,38 0,47 0,60 v 57 c 0,9 6,18 15,21 l 43,16 v 157 c 0,11 8,19 19,19 11,0 20,-8 20,-19 V 169 l 81,30 v 156 c 0,11 9,20 20,20 11,0 19,-9 19,-20 V 213 l 28,11 c 3,1 5,1 8,1 12,0 22,-10 22,-23 v -57 c 0,-9 -6,-18 -15,-21 L 217,108 V -49 l 28,10 c 3,1 5,1 8,1 12,0 22,-9 22,-22 v -57 c 0,-9 -6,-18 -15,-21 l -43,-16 z M 97,64 V -94 l 81,30 V 94 Z"
+       fill="currentColor"
+       id="path132877" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:954:45:46"
+     id="a132885"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(93.476,114.6353)"
+       id="g132883">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132881" />
+    </g>
+  </a>
+  <g
+     transform="translate(83.0852,6.4135022)"
+     id="g132889">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m -8,375 c 8,5 17,7 26,7 9,0 18,-2 26,-7 l -3,-187 104,21 h 4 c 10,0 18,-8 18,-18 l 7,-566 c -8,-5 -16,-7 -25,-7 -9,0 -18,2 -26,7 l 2,187 -103,-21 h -4 c -10,0 -18,8 -18,18 z M 130,111 40,93 l -3,-204 90,18 z"
+       fill="currentColor"
+       id="path132887" />
+  </g>
+  <g
+     transform="translate(23.7619,9.5635022)"
+     id="g132893">
+    <rect
+       x="-0.062799998"
+       y="-1.7992001"
+       width="0.12549999"
+       height="2.5378001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132891" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:28:29"
+     id="a132899"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(28.5875,115.7701)"
+       id="g132897">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path132895" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:25:26"
+     id="a132905"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(28.3427,119.1353)"
+       id="g132903">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132901" />
+    </g>
+  </a>
+  <g
+     transform="translate(21.3121,10.463502)"
+     id="g132909">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 217,-311 c 0,-11 -8,-19 -19,-19 -11,0 -20,8 -20,19 v 142 l -81,-30 v -156 c 0,-11 -9,-20 -20,-20 -11,0 -19,9 -19,20 v 142 l -28,-11 c -3,-1 -5,-1 -8,-1 -12,0 -22,10 -22,23 v 57 c 0,9 6,18 15,21 l 43,16 V 49 L 30,39 C 27,38 25,38 22,38 10,38 0,47 0,60 v 57 c 0,9 6,18 15,21 l 43,16 v 157 c 0,11 8,19 19,19 11,0 20,-8 20,-19 V 169 l 81,30 v 156 c 0,11 9,20 20,20 11,0 19,-9 19,-20 V 213 l 28,11 c 3,1 5,1 8,1 12,0 22,-10 22,-23 v -57 c 0,-9 -6,-18 -15,-21 L 217,108 V -49 l 28,10 c 3,1 5,1 8,1 12,0 22,-9 22,-22 v -57 c 0,-9 -6,-18 -15,-21 l -43,-16 z M 97,64 V -94 l 81,30 V 94 Z"
+       fill="currentColor"
+       id="path132907" />
+  </g>
+  <g
+     transform="translate(19.2875,9.5635022)"
+     id="g132913">
+    <rect
+       x="-0.062799998"
+       y="-1.7406"
+       width="0.12549999"
+       height="2.4791999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132911" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:22:23"
+     id="a132919"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(24.1132,114.333)"
+       id="g132917">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path132915" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:21:22"
+     id="a132925"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(23.8684,119.1353)"
+       id="g132923">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132921" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:40:41"
+     id="a132931"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(35.9708,113.3864)"
+       id="g132929">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path132927" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:42:43"
+     id="a132937"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(36.0391,111.9121)"
+       id="g132935">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="M 129,129 H 259 C 259,77 291,29 340,29 350,29 354,21 354,14 354,7 350,0 340,0 291,0 243,14 194,14 145,14 98,0 49,0 39,0 34,7 34,14 c 0,7 5,15 15,15 49,0 80,48 80,100 z M 0,250 129,500 c 3,7 13,3 21,0 14,-6 28,-14 44,-14 16,0 31,8 45,14 2,1 2,1 4,1 8,0 16,-9 16,-21 V 129 H 129 v 215 c 0,15 -11,23 -20,23 -5,0 -9,-2 -11,-7 L 32,233 c -4,-7 -9,-9 -15,-9 -9,0 -19,7 -19,17 0,3 0,6 2,9 z"
+         fill="currentColor"
+         id="path132933" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:37:38"
+     id="a132943"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(35.8113,118.2353)"
+       id="g132941">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132939" />
+    </g>
+  </a>
+  <g
+     transform="translate(13.1035,10.913502)"
+     id="g132947">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 217,-311 c 0,-11 -8,-19 -19,-19 -11,0 -20,8 -20,19 v 142 l -81,-30 v -156 c 0,-11 -9,-20 -20,-20 -11,0 -19,9 -19,20 v 142 l -28,-11 c -3,-1 -5,-1 -8,-1 -12,0 -22,10 -22,23 v 57 c 0,9 6,18 15,21 l 43,16 V 49 L 30,39 C 27,38 25,38 22,38 10,38 0,47 0,60 v 57 c 0,9 6,18 15,21 l 43,16 v 157 c 0,11 8,19 19,19 11,0 20,-8 20,-19 V 169 l 81,30 v 156 c 0,11 9,20 20,20 11,0 19,-9 19,-20 V 213 l 28,11 c 3,1 5,1 8,1 12,0 22,-10 22,-23 v -57 c 0,-9 -6,-18 -15,-21 L 217,108 V -49 l 28,10 c 3,1 5,1 8,1 12,0 22,-9 22,-22 v -57 c 0,-9 -6,-18 -15,-21 l -43,-16 z M 97,64 V -94 l 81,30 V 94 Z"
+       fill="currentColor"
+       id="path132945" />
+  </g>
+  <g
+     transform="translate(27.4962,9.5635022)"
+     id="g132951">
+    <rect
+       x="-0.062799998"
+       y="-2.7024"
+       width="0.12549999"
+       height="2.9909999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132949" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:32:33"
+     id="a132957"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(32.2877,113.6322)"
+       id="g132955">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 190,464 c -54,0 -61,-71 -61,-141 v -73 -73 c 0,-70 7,-141 61,-141 54,0 62,71 62,141 0,26 -1,51 -1,73 0,22 1,47 1,73 0,70 -8,141 -62,141 z m 0,36 C 308,500 380,378 380,250 380,122 308,0 190,0 72,0 0,122 0,250 0,378 72,500 190,500 Z"
+         fill="currentColor"
+         id="path132953" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:34:35"
+     id="a132963"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(32.2365,112.1579)"
+       id="g132961">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path132959" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:31:32"
+     id="a132969"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(32.077,118.6853)"
+       id="g132967">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path132965" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:950:4:5"
+     id="a132975"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(10.1072,118.2353)"
+       id="g132973">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 29,39 -2,-64 v -11 c 0,-22 2,-43 5,-65 44,38 91,80 91,138 0,33 -13,66 -42,66 C 50,103 30,72 29,39 Z m -57,415 c 9,5 18,8 28,8 10,0 19,-3 28,-8 L 21,111 c 25,23 58,36 92,36 51,0 87,-49 87,-103 0,-79 -84,-117 -144,-169 -16,-14 -25,-41 -47,-41 -14,0 -25,13 -25,27 z"
+         fill="currentColor"
+         id="path132971" />
+    </g>
+  </a>
+  <g
+     transform="translate(9.7834,9.5635022)"
+     id="g132979">
+    <rect
+       x="-0.062799998"
+       y="0.67769998"
+       width="0.12549999"
+       height="2.6222999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132977" />
+  </g>
+  <g
+     transform="translate(11.3646,10.013502)"
+     id="g132983">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="M 0,0 C 0,31 25,56 56,56 87,56 111,31 111,0 111,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
+       fill="currentColor"
+       id="path132981" />
+  </g>
+  <g
+     transform="translate(11.0789,9.5635022)"
+     id="g132987">
+    <rect
+       x="-0.062799998"
+       y="-1.6331"
+       width="0.12549999"
+       height="2.8217001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect132985" />
+  </g>
+  <g
+     transform="translate(6.4061,9.5635022)"
+     id="g132991">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 151,475 c -29,0 -60,-8 -60,-33 0,-22 35,-25 35,-47 0,-31 -26,-57 -57,-57 -31,0 -57,26 -57,57 0,65 68,105 139,105 92,0 170,-33 170,-114 0,-42 -5,-81 -42,-98 -10,-5 -15,-14 -15,-23 0,-9 5,-18 15,-23 41,-19 57,-56 57,-102 C 336,48 256,0 156,0 77,0 0,43 0,115 c 0,36 29,65 65,65 36,0 65,-29 65,-65 0,-25 -40,-29 -40,-54 0,-28 34,-36 66,-36 48,0 61,59 61,115 v 22 c 0,50 -3,88 -49,88 H 90 c -10,0 -15,7 -15,15 0,8 5,15 15,15 h 78 c 46,0 49,40 49,92 v 14 c 0,53 -18,89 -66,89 z"
+       fill="currentColor"
+       id="path132989" />
+  </g>
+  <g
+     transform="translate(6.2866,11.407202)"
+     id="g132995">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 194,120 h 120 c 0,-49 29,-95 75,-95 8,0 12,-7 12,-13 C 401,6 397,0 389,0 344,0 299,13 254,13 209,13 164,0 119,0 c -8,0 -12,6 -12,12 0,6 4,13 12,13 46,0 75,46 75,95 z m 9,181 c 22,15 45,30 61,51 12,15 19,34 27,51 2,4 5,6 9,6 6,0 14,-6 14,-15 V 156 h 74 c 10,0 16,-8 16,-16 0,-8 -6,-15 -16,-15 h -74 v -5 H 194 v 5 H 31 c -24,0 -33,15 -33,24 0,3 1,6 2,7 80,92 134,205 134,327 0,11 8,20 17,17 24,-7 48,-13 73,-13 25,0 48,6 72,13 2,1 4,1 6,1 9,0 14,-7 14,-13 0,-2 0,-3 -2,-5 L 31,156 h 163 v 122 c 0,9 2,18 9,23 z"
+       fill="currentColor"
+       id="path132993" />
+  </g>
+  <g
+     transform="translate(0.80000003,10.463502)"
+     id="g132999">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 378,263 c 4,0 7,1 11,1 156,0 257,-129 257,-262 0,-76 -34,-154 -108,-210 -22,-17 -46,-29 -72,-37 3,-34 5,-68 5,-102 0,-20 -1,-40 -2,-60 -7,-121 -90,-228 -209,-228 -108,0 -196,87 -196,196 0,58 53,104 112,104 54,0 95,-48 95,-104 0,-52 -43,-95 -95,-95 -10,0 -20,2 -29,6 26,-38 68,-63 116,-63 h 3 c 93,2 153,92 159,190 1,19 2,37 2,56 0,30 -2,60 -4,90 -29,-5 -58,-8 -88,-8 -188,0 -333,173 -333,375 0,177 130,307 246,442 -20,62 -38,125 -46,190 -6,52 -7,104 -7,157 0,115 55,223 148,290 7,5 16,4 22,-1 71,-83 134,-244 134,-357 0,-143 -85,-255 -178,-364 21,-68 40,-137 57,-206 z m 84,-465 c 67,24 111,94 111,162 0,89 -65,178 -170,190 24,-115 46,-230 59,-352 z M 75,26 c 0,-134 129,-245 263,-245 28,0 55,2 81,6 C 405,-87 383,31 358,150 279,142 234,89 234,31 c 0,-43 25,-89 80,-121 5,-5 7,-11 7,-16 0,-12 -10,-23 -22,-23 -3,0 -6,1 -9,2 -81,43 -118,116 -118,186 0,89 58,175 161,198 -14,58 -29,116 -46,173 C 181,308 75,186 75,26 Z M 406,1042 C 307,995 244,894 244,785 c 0,-73 20,-132 38,-191 79,97 144,199 144,324 0,53 -4,76 -20,124 z"
+       fill="currentColor"
+       id="path132997" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:960:7:8"
+     id="a133005"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(15.4113,118.6853)"
+       id="g133003">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 312,64 c 0,24 -20,41 -41,41 -4,0 -8,-1 -12,-2 C 229,94 182,65 146,41 110,17 63,-13 43,-37 36,-45 33,-54 33,-64 c 0,-24 20,-41 41,-41 4,0 8,1 12,2 30,9 77,38 113,62 36,24 83,54 103,78 7,8 10,17 10,27 z m -53,73 c 48,0 86,-22 86,-74 0,-18 -4,-38 -10,-56 -12,-38 -30,-73 -63,-95 -53,-36 -113,-49 -186,-49 -48,0 -86,22 -86,74 0,18 4,38 10,56 12,38 31,73 64,95 53,36 112,49 185,49 z"
+         fill="currentColor"
+         id="path133001" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:12:13"
+     id="a133011"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(15.8704,115.9362)"
+       id="g133009">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path133007" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:8:9"
+     id="a133017"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(15.6598,119.5853)"
+       id="g133015">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133013" />
+    </g>
+  </a>
+  <g
+     transform="translate(15.5532,9.5635022)"
+     id="g133021">
+    <rect
+       x="-0.062799998"
+       y="-1.6917"
+       width="0.12549999"
+       height="2.8803"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133019" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:18:19"
+     id="a133027"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(20.3448,114.7722)"
+       id="g133025">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path133023" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:15:16"
+     id="a133033"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(20.1341,119.5853)"
+       id="g133031">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133029" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:68:69"
+     id="a133039"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(52.0992,111.3258)"
+       id="g133037">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path133035" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:65:66"
+     id="a133045"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(51.8544,117.3353)"
+       id="g133043">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133041" />
+    </g>
+  </a>
+  <g
+     transform="translate(39.0649,9.5635022)"
+     id="g133049">
+    <rect
+       x="-0.062799998"
+       y="-3.1475999"
+       width="0.12549999"
+       height="2.5362"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133047" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:52:53"
+     id="a133055"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(43.8052,112.9992)"
+       id="g133053">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path133051" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:54:55"
+     id="a133061"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(43.8565,111.5249)"
+       id="g133059">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path133057" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:51:52"
+     id="a133067"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(43.6458,117.7853)"
+       id="g133065">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133063" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:66:67"
+     id="a133073"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(52.0139,112.8001)"
+       id="g133071">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path133069" />
+    </g>
+  </a>
+  <g
+     transform="translate(47.2736,9.5635022)"
+     id="g133077">
+    <rect
+       x="-0.062799998"
+       y="-3.7416"
+       width="0.12549999"
+       height="2.6802001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133075" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:57:58"
+     id="a133083"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(48.1201,117.7853)"
+       id="g133081">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133079" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:62:63"
+     id="a133089"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(48.3308,111.3835)"
+       id="g133087">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path133085" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:60:61"
+     id="a133095"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(48.2796,112.8578)"
+       id="g133093">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path133091" />
+    </g>
+  </a>
+  <g
+     transform="translate(43.5392,9.5635022)"
+     id="g133099">
+    <rect
+       x="-0.062799998"
+       y="-3.6022999"
+       width="0.12549999"
+       height="2.9909"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133097" />
+  </g>
+  <g
+     transform="translate(41.0895,9.1135022)"
+     id="g133103">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 217,-311 c 0,-11 -8,-19 -19,-19 -11,0 -20,8 -20,19 v 142 l -81,-30 v -156 c 0,-11 -9,-20 -20,-20 -11,0 -19,9 -19,20 v 142 l -28,-11 c -3,-1 -5,-1 -8,-1 -12,0 -22,10 -22,23 v 57 c 0,9 6,18 15,21 l 43,16 V 49 L 30,39 C 27,38 25,38 22,38 10,38 0,47 0,60 v 57 c 0,9 6,18 15,21 l 43,16 v 157 c 0,11 8,19 19,19 11,0 20,-8 20,-19 V 169 l 81,30 v 156 c 0,11 9,20 20,20 11,0 19,-9 19,-20 V 213 l 28,11 c 3,1 5,1 8,1 12,0 22,-10 22,-23 v -57 c 0,-9 -6,-18 -15,-21 L 217,108 V -49 l 28,10 c 3,1 5,1 8,1 12,0 22,-9 22,-22 v -57 c 0,-9 -6,-18 -15,-21 l -43,-16 z M 97,64 V -94 l 81,30 V 94 Z"
+       fill="currentColor"
+       id="path133101" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:45:46"
+     id="a133109"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(39.9115,118.2353)"
+       id="g133107">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133105" />
+    </g>
+  </a>
+  <g
+     transform="translate(31.2305,9.5635022)"
+     id="g133113">
+    <rect
+       x="-0.062799998"
+       y="-2.8461001"
+       width="0.12549999"
+       height="2.6847"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133111" />
+  </g>
+  <g
+     transform="translate(33.255,9.5635022)"
+     id="g133117">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m -8,375 c 8,5 17,7 26,7 9,0 18,-2 26,-7 l -3,-187 104,21 h 4 c 10,0 18,-8 18,-18 l 7,-566 c -8,-5 -16,-7 -25,-7 -9,0 -18,2 -26,7 l 2,187 -103,-21 h -4 c -10,0 -18,8 -18,18 z M 130,111 40,93 l -3,-204 90,18 z"
+       fill="currentColor"
+       id="path133115" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:48:49"
+     id="a133123"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(40.1392,111.6891)"
+       id="g133121">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="M 129,129 H 259 C 259,77 291,29 340,29 350,29 354,21 354,14 354,7 350,0 340,0 291,0 243,14 194,14 145,14 98,0 49,0 39,0 34,7 34,14 c 0,7 5,15 15,15 49,0 80,48 80,100 z M 0,250 129,500 c 3,7 13,3 21,0 14,-6 28,-14 44,-14 16,0 31,8 45,14 2,1 2,1 4,1 8,0 16,-9 16,-21 V 129 H 129 v 215 c 0,15 -11,23 -20,23 -5,0 -9,-2 -11,-7 L 32,233 c -4,-7 -9,-9 -15,-9 -9,0 -19,7 -19,17 0,3 0,6 2,9 z"
+         fill="currentColor"
+         id="path133119" />
+    </g>
+  </a>
+  <g
+     transform="translate(35.3306,9.5635022)"
+     id="g133127">
+    <rect
+       x="-0.062799998"
+       y="-3.0039001"
+       width="0.12549999"
+       height="2.8425"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133125" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:953:46:47"
+     id="a133133"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(40.0709,113.1634)"
+       id="g133131">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path133129" />
+    </g>
+  </a>
+  <g
+     transform="translate(3.1967416e-8,25.701502)"
+     id="g133137">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.0966"
+       stroke="currentColor"
+       x1="0.048300002"
+       y1="0"
+       x2="108.0722"
+       y2="0"
+       id="line133135" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,24.801502)"
+     id="g133141">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.0966"
+       stroke="currentColor"
+       x1="0.048300002"
+       y1="0"
+       x2="108.0722"
+       y2="0"
+       id="line133139" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,23.901502)"
+     id="g133145">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.0966"
+       stroke="currentColor"
+       x1="0.048300002"
+       y1="0"
+       x2="108.0722"
+       y2="0"
+       id="line133143" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,23.001502)"
+     id="g133149">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.0966"
+       stroke="currentColor"
+       x1="0.048300002"
+       y1="0"
+       x2="108.0722"
+       y2="0"
+       id="line133147" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,22.101502)"
+     id="g133153">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.0966"
+       stroke="currentColor"
+       x1="0.048300002"
+       y1="0"
+       x2="108.0722"
+       y2="0"
+       id="line133151" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,21.201502)"
+     id="g133157">
+    <rect
+       x="38.952202"
+       y="-0.0933"
+       width="1.6407"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133155" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,21.201502)"
+     id="g133161">
+    <rect
+       x="35.0499"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133159" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,21.201502)"
+     id="g133165">
+    <rect
+       x="31.9704"
+       y="-0.0933"
+       width="1.6407"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133163" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,21.201502)"
+     id="g133169">
+    <rect
+       x="28.178301"
+       y="-0.0933"
+       width="1.6486"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133167" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,20.301502)"
+     id="g133173">
+    <rect
+       x="24.5047"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133171" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,21.201502)"
+     id="g133177">
+    <rect
+       x="24.5047"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133175" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,20.301502)"
+     id="g133181">
+    <rect
+       x="21.425301"
+       y="-0.0933"
+       width="1.6407"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133179" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,21.201502)"
+     id="g133185">
+    <rect
+       x="21.3071"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133183" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,20.301502)"
+     id="g133189">
+    <rect
+       x="17.5229"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133187" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,21.201502)"
+     id="g133193">
+    <rect
+       x="17.5229"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133191" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,19.401502)"
+     id="g133197">
+    <rect
+       x="14.4435"
+       y="-0.0933"
+       width="1.6407"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133195" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,20.301502)"
+     id="g133201">
+    <rect
+       x="14.3254"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133199" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,21.201502)"
+     id="g133205">
+    <rect
+       x="14.3254"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133203" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,19.401502)"
+     id="g133209">
+    <rect
+       x="10.5411"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133207" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,20.301502)"
+     id="g133213">
+    <rect
+       x="10.5411"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133211" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,21.201502)"
+     id="g133217">
+    <rect
+       x="10.5411"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133215" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,19.401502)"
+     id="g133221">
+    <rect
+       x="7.3435998"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133219" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,20.301502)"
+     id="g133225">
+    <rect
+       x="7.3435998"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133223" />
+  </g>
+  <g
+     transform="translate(3.1967416e-8,21.201502)"
+     id="g133229">
+    <rect
+       x="7.3435998"
+       y="-0.0933"
+       width="1.7588"
+       height="0.1866"
+       ry="0.0933"
+       fill="currentColor"
+       id="rect133227" />
+  </g>
+  <g
+     transform="translate(49.4599,23.901502)"
+     id="g133233">
+    <rect
+       x="0"
+       y="-1.8"
+       width="0.18350001"
+       height="3.5999999"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect133231" />
+  </g>
+  <g
+     transform="translate(107.9369,23.901502)"
+     id="g133237">
+    <rect
+       x="0"
+       y="-1.8"
+       width="0.18350001"
+       height="3.5999999"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect133235" />
+  </g>
+  <g
+     transform="translate(107.4637,23.901502)"
+     id="g133241">
+    <rect
+       x="0"
+       y="-1.8"
+       width="0.18350001"
+       height="3.5999999"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect133239" />
+  </g>
+  <g
+     transform="translate(92.7515,23.451502)"
+     id="g133245">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="M 0,0 C 0,31 25,56 56,56 87,56 111,31 111,0 111,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
+       fill="currentColor"
+       id="path133243" />
+  </g>
+  <g
+     transform="translate(92.7515,24.351502)"
+     id="g133249">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="M 0,0 C 0,31 25,56 56,56 87,56 111,31 111,0 111,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
+       fill="currentColor"
+       id="path133247" />
+  </g>
+  <g
+     transform="translate(93.9158,23.901502)"
+     id="g133253">
+    <rect
+       x="0"
+       y="-1.8"
+       width="0.5794"
+       height="3.5999999"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect133251" />
+  </g>
+  <g
+     transform="translate(93.4426,23.901502)"
+     id="g133257">
+    <rect
+       x="0"
+       y="-1.8"
+       width="0.18350001"
+       height="3.5999999"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect133255" />
+  </g>
+  <g
+     transform="translate(69.1992,23.901502)"
+     id="g133261">
+    <rect
+       x="-0.062799998"
+       y="-3.4625001"
+       width="0.12549999"
+       height="2.8511"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133259" />
+  </g>
+  <g
+     transform="translate(70.687,23.901502)"
+     id="g133265">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m -8,375 c 8,5 17,7 26,7 9,0 18,-2 26,-7 l -3,-187 104,21 h 4 c 10,0 18,-8 18,-18 l 7,-566 c -8,-5 -16,-7 -25,-7 -9,0 -18,2 -26,7 l 2,187 -103,-21 h -4 c -10,0 -18,8 -18,18 z M 130,111 40,93 l -3,-204 90,18 z"
+       fill="currentColor"
+       id="path133263" />
+  </g>
+  <g
+     transform="translate(72.7625,23.901502)"
+     id="g133269">
+    <rect
+       x="-0.062799998"
+       y="-3.3122001"
+       width="0.12549999"
+       height="3.1508"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133267" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:47:48"
+     id="a133275"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(77.5029,128.5951)"
+       id="g133273">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path133271" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:49:50"
+     id="a133281"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(77.5712,126.6615)"
+       id="g133279">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="M 129,129 H 259 C 259,77 291,29 340,29 350,29 354,21 354,14 354,7 350,0 340,0 291,0 243,14 194,14 145,14 98,0 49,0 39,0 34,7 34,14 c 0,7 5,15 15,15 49,0 80,48 80,100 z M 0,250 129,500 c 3,7 13,3 21,0 14,-6 28,-14 44,-14 16,0 31,8 45,14 2,1 2,1 4,1 8,0 16,-9 16,-21 V 129 H 129 v 215 c 0,15 -11,23 -20,23 -5,0 -9,-2 -11,-7 L 32,233 c -4,-7 -9,-9 -15,-9 -9,0 -19,7 -19,17 0,3 0,6 2,9 z"
+         fill="currentColor"
+         id="path133277" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:46:47"
+     id="a133287"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(77.3434,132.5733)"
+       id="g133285">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133283" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:19:20"
+     id="a133293"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(63.6007,131.2233)"
+       id="g133291">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133289" />
+    </g>
+  </a>
+  <g
+     transform="translate(79.7443,23.901502)"
+     id="g133297">
+    <rect
+       x="-0.062799998"
+       y="-3.1473999"
+       width="0.12549999"
+       height="3.4360001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133295" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:61:62"
+     id="a133303"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(84.4847,128.7599)"
+       id="g133301">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path133299" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:63:64"
+     id="a133309"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(84.5359,127.1652)"
+       id="g133307">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 190,464 c -54,0 -61,-71 -61,-141 v -73 -73 c 0,-70 7,-141 61,-141 54,0 62,71 62,141 0,26 -1,51 -1,73 0,22 1,47 1,73 0,70 -8,141 -62,141 z m 0,36 C 308,500 380,378 380,250 380,122 308,0 190,0 72,0 0,122 0,250 0,378 72,500 190,500 Z"
+         fill="currentColor"
+         id="path133305" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:60:61"
+     id="a133315"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(84.3252,133.0233)"
+       id="g133313">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133311" />
+    </g>
+  </a>
+  <g
+     transform="translate(74.367,23.901502)"
+     id="g133319">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 29,39 -2,-64 v -11 c 0,-22 2,-43 5,-65 44,38 91,80 91,138 0,33 -13,66 -42,66 C 50,103 30,72 29,39 Z m -57,415 c 9,5 18,8 28,8 10,0 19,-3 28,-8 L 21,111 c 25,23 58,36 92,36 51,0 87,-49 87,-103 0,-79 -84,-117 -144,-169 -16,-14 -25,-41 -47,-41 -14,0 -25,13 -25,27 z"
+       fill="currentColor"
+       id="path133317" />
+  </g>
+  <g
+     transform="translate(76.5468,23.901502)"
+     id="g133323">
+    <rect
+       x="-0.062799998"
+       y="-3.1526"
+       width="0.12549999"
+       height="2.9912"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133321" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:55:56"
+     id="a133329"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(81.2871,128.7547)"
+       id="g133327">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path133325" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:57:58"
+     id="a133335"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(81.3554,126.9123)"
+       id="g133333">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="M 129,129 H 259 C 259,77 291,29 340,29 350,29 354,21 354,14 354,7 350,0 340,0 291,0 243,14 194,14 145,14 98,0 49,0 39,0 34,7 34,14 c 0,7 5,15 15,15 49,0 80,48 80,100 z M 0,250 129,500 c 3,7 13,3 21,0 14,-6 28,-14 44,-14 16,0 31,8 45,14 2,1 2,1 4,1 8,0 16,-9 16,-21 V 129 H 129 v 215 c 0,15 -11,23 -20,23 -5,0 -9,-2 -11,-7 L 32,233 c -4,-7 -9,-9 -15,-9 -9,0 -19,7 -19,17 0,3 0,6 2,9 z"
+         fill="currentColor"
+         id="path133331" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:52:53"
+     id="a133341"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(81.1276,132.5733)"
+       id="g133339">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133337" />
+    </g>
+  </a>
+  <g
+     transform="translate(62.2174,23.901502)"
+     id="g133345">
+    <rect
+       x="-0.062799998"
+       y="-4.5026999"
+       width="0.12549999"
+       height="3.4412999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133343" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:27:28"
+     id="a133351"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(66.9577,126.2402)"
+       id="g133349">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path133347" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:29:30"
+     id="a133357"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(67.0431,124.7659)"
+       id="g133355">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path133353" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:26:27"
+     id="a133363"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(66.7982,131.6733)"
+       id="g133361">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133359" />
+    </g>
+  </a>
+  <g
+     transform="translate(56.8401,22.551502)"
+     id="g133367">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 29,39 -2,-64 v -11 c 0,-22 2,-43 5,-65 44,38 91,80 91,138 0,33 -13,66 -42,66 C 50,103 30,72 29,39 Z m -57,415 c 9,5 18,8 28,8 10,0 19,-3 28,-8 L 21,111 c 25,23 58,36 92,36 51,0 87,-49 87,-103 0,-79 -84,-117 -144,-169 -16,-14 -25,-41 -47,-41 -14,0 -25,13 -25,27 z"
+       fill="currentColor"
+       id="path133365" />
+  </g>
+  <g
+     transform="translate(59.0198,23.901502)"
+     id="g133371">
+    <rect
+       x="-0.062799998"
+       y="-4.6423998"
+       width="0.12549999"
+       height="3.1308999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133369" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:21:22"
+     id="a133377"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(63.7602,126.2215)"
+       id="g133375">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path133373" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:23:24"
+     id="a133383"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(63.8455,124.7472)"
+       id="g133381">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path133379" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:9:10"
+     id="a133389"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(13.3272,132.5733)"
+       id="g133387">
+      <path
+         stroke-width="0.0773"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 1.1324,-8.3143 c 2.8894,-1.5577 35.9363,0.3637 38.6257,2.2457 v 0 C 37.062,-7.835 4.0151,-9.7563 1.1324,-8.3143 Z"
+         id="path133385" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:43:44"
+     id="a133395"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(73.9907,126.4703)"
+       id="g133393">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path133391" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:40:41"
+     id="a133401"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(73.78,132.1233)"
+       id="g133399">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133397" />
+    </g>
+  </a>
+  <g
+     transform="translate(63.8219,23.001502)"
+     id="g133405">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 29,39 -2,-64 v -11 c 0,-22 2,-43 5,-65 44,38 91,80 91,138 0,33 -13,66 -42,66 C 50,103 30,72 29,39 Z m -57,415 c 9,5 18,8 28,8 10,0 19,-3 28,-8 L 21,111 c 25,23 58,36 92,36 51,0 87,-49 87,-103 0,-79 -84,-117 -144,-169 -16,-14 -25,-41 -47,-41 -14,0 -25,13 -25,27 z"
+       fill="currentColor"
+       id="path133403" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:41:42"
+     id="a133411"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(73.9395,128.4448)"
+       id="g133409">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path133407" />
+    </g>
+  </a>
+  <g
+     transform="translate(66.0016,23.901502)"
+     id="g133415">
+    <rect
+       x="-0.062799998"
+       y="-3.5974"
+       width="0.12549999"
+       height="2.5359001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133413" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:35:36"
+     id="a133421"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(70.7419,128.31)"
+       id="g133419">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path133417" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:37:38"
+     id="a133427"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(70.7932,126.3391)"
+       id="g133425">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path133423" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:32:33"
+     id="a133433"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(70.5825,131.6733)"
+       id="g133431">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133429" />
+    </g>
+  </a>
+  <g
+     transform="translate(98.3485,25.251502)"
+     id="g133437">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="M 0,0 C 0,31 25,56 56,56 87,56 111,31 111,0 111,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
+       fill="currentColor"
+       id="path133435" />
+  </g>
+  <g
+     transform="translate(97.8844,23.901502)"
+     id="g133441">
+    <rect
+       x="-0.062799998"
+       y="-2.7"
+       width="0.12549999"
+       height="3.8223"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133439" />
+  </g>
+  <g
+     transform="translate(98.3485,24.351502)"
+     id="g133445">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="M 0,0 C 0,31 25,56 56,56 87,56 111,31 111,0 111,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
+       fill="currentColor"
+       id="path133443" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:964:11:12"
+     id="a133451"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(102.6409,130.275)"
+       id="g133449">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path133447" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:964:13:14"
+     id="a133457"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(102.6409,128.8007)"
+       id="g133455">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 190,464 c -54,0 -61,-71 -61,-141 v -73 -73 c 0,-70 7,-141 61,-141 54,0 62,71 62,141 0,26 -1,51 -1,73 0,22 1,47 1,73 0,70 -8,141 -62,141 z m 0,36 C 308,500 380,378 380,250 380,122 308,0 190,0 72,0 0,122 0,250 0,378 72,500 190,500 Z"
+         fill="currentColor"
+         id="path133453" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:964:7:8"
+     id="a133463"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(102.3952,133.9233)"
+       id="g133461">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 312,64 c 0,24 -20,41 -41,41 -4,0 -8,-1 -12,-2 C 229,94 182,65 146,41 110,17 63,-13 43,-37 36,-45 33,-54 33,-64 c 0,-24 20,-41 41,-41 4,0 8,1 12,2 30,9 77,38 113,62 36,24 83,54 103,78 7,8 10,17 10,27 z m -53,73 c 48,0 86,-22 86,-74 0,-18 -4,-38 -10,-56 -12,-38 -30,-73 -63,-95 -53,-36 -113,-49 -186,-49 -48,0 -86,22 -86,74 0,18 4,38 10,56 12,38 31,73 64,95 53,36 112,49 185,49 z"
+         fill="currentColor"
+         id="path133459" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:964:5:6"
+     id="a133469"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(102.3952,133.0233)"
+       id="g133467">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 312,64 c 0,24 -20,41 -41,41 -4,0 -8,-1 -12,-2 C 229,94 182,65 146,41 110,17 63,-13 43,-37 36,-45 33,-54 33,-64 c 0,-24 20,-41 41,-41 4,0 8,1 12,2 30,9 77,38 113,62 36,24 83,54 103,78 7,8 10,17 10,27 z m -53,73 c 48,0 86,-22 86,-74 0,-18 -4,-38 -10,-56 -12,-38 -30,-73 -63,-95 -53,-36 -113,-49 -186,-49 -48,0 -86,22 -86,74 0,18 4,38 10,56 12,38 31,73 64,95 53,36 112,49 185,49 z"
+         fill="currentColor"
+         id="path133465" />
+    </g>
+  </a>
+  <g
+     transform="translate(8.6836,16.251502)"
+     id="g133473">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="10.2649,0.1063 10.2649,0.4583 0.04,0.176 0.04,-0.176 "
+       id="polygon133471" />
+  </g>
+  <g
+     transform="translate(8.6836,16.983802)"
+     id="g133477">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="10.2649,0.1063 10.2649,0.4583 0.04,0.176 0.04,-0.176 "
+       id="polygon133475" />
+  </g>
+  <g
+     transform="translate(22.6472,17.151502)"
+     id="g133481">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="10.6307,0.4417 10.6307,0.7937 0.04,0.176 0.04,-0.176 "
+       id="polygon133479" />
+  </g>
+  <g
+     transform="translate(22.6472,17.883802)"
+     id="g133485">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="10.6307,0.4417 10.6307,0.7937 0.04,0.176 0.04,-0.176 "
+       id="polygon133483" />
+  </g>
+  <g
+     transform="translate(36.3899,18.051502)"
+     id="g133489">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="11.0049,0.274 11.0049,0.626 0.04,0.176 0.04,-0.176 "
+       id="polygon133487" />
+  </g>
+  <g
+     transform="translate(36.3899,18.783802)"
+     id="g133493">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="11.0049,0.274 11.0049,0.626 0.04,0.176 0.04,-0.176 "
+       id="polygon133491" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:9:10"
+     id="a133499"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(56.6189,132.5733)"
+       id="g133497">
+      <path
+         stroke-width="0.0773"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 1.1324,-5.6133 c 2.8893,-1.5578 35.9363,0.3627 38.6257,2.2447 v 0 C 37.0619,-5.1349 4.015,-7.0554 1.1324,-5.6133 Z"
+         id="path133495" />
+    </g>
+  </a>
+  <g
+     transform="translate(51.9753,18.951502)"
+     id="g133503">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="10.2649,0.274 10.2649,0.626 0.04,0.176 0.04,-0.176 "
+       id="polygon133501" />
+  </g>
+  <g
+     transform="translate(51.9753,19.683802)"
+     id="g133507">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="10.2649,0.274 10.2649,0.626 0.04,0.176 0.04,-0.176 "
+       id="polygon133505" />
+  </g>
+  <g
+     transform="translate(65.9389,20.301502)"
+     id="g133511">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="10.6307,0.274 10.6307,0.626 0.04,0.176 0.04,-0.176 "
+       id="polygon133509" />
+  </g>
+  <g
+     transform="translate(65.9389,21.033802)"
+     id="g133515">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="10.6307,0.274 10.6307,0.626 0.04,0.176 0.04,-0.176 "
+       id="polygon133513" />
+  </g>
+  <g
+     transform="translate(79.6816,20.751502)"
+     id="g133519">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="11.0049,0.274 11.0049,0.626 0.04,0.176 0.04,-0.176 "
+       id="polygon133517" />
+  </g>
+  <g
+     transform="translate(79.6816,21.483802)"
+     id="g133523">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="11.0049,0.274 11.0049,0.626 0.04,0.176 0.04,-0.176 "
+       id="polygon133521" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:77:78"
+     id="a133529"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(91.5177,126.4455)"
+       id="g133527">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 190,464 c -54,0 -61,-71 -61,-141 v -73 -73 c 0,-70 7,-141 61,-141 54,0 62,71 62,141 0,26 -1,51 -1,73 0,22 1,47 1,73 0,70 -8,141 -62,141 z m 0,36 C 308,500 380,378 380,250 380,122 308,0 190,0 72,0 0,122 0,250 0,378 72,500 190,500 Z"
+         fill="currentColor"
+         id="path133525" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:74:75"
+     id="a133535"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(91.307,133.4733)"
+       id="g133533">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133531" />
+    </g>
+  </a>
+  <g
+     transform="translate(81.3488,24.351502)"
+     id="g133539">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 29,39 -2,-64 v -11 c 0,-22 2,-43 5,-65 44,38 91,80 91,138 0,33 -13,66 -42,66 C 50,103 30,72 29,39 Z m -57,415 c 9,5 18,8 28,8 10,0 19,-3 28,-8 L 21,111 c 25,23 58,36 92,36 51,0 87,-49 87,-103 0,-79 -84,-117 -144,-169 -16,-14 -25,-41 -47,-41 -14,0 -25,13 -25,27 z"
+       fill="currentColor"
+       id="path133537" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:75:76"
+     id="a133545"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(91.5518,127.9198)"
+       id="g133543">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path133541" />
+    </g>
+  </a>
+  <g
+     transform="translate(83.5286,23.901502)"
+     id="g133549">
+    <rect
+       x="-0.062799998"
+       y="-2.9933"
+       width="0.12549999"
+       height="3.2818"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133547" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:69:70"
+     id="a133555"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(88.3543,127.5324)"
+       id="g133553">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path133551" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:71:72"
+     id="a133561"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(88.3201,126.0581)"
+       id="g133559">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 190,464 c -54,0 -61,-71 -61,-141 v -73 -73 c 0,-70 7,-141 61,-141 54,0 62,71 62,141 0,26 -1,51 -1,73 0,22 1,47 1,73 0,70 -8,141 -62,141 z m 0,36 C 308,500 380,378 380,250 380,122 308,0 190,0 72,0 0,122 0,250 0,378 72,500 190,500 Z"
+         fill="currentColor"
+         id="path133557" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:66:67"
+     id="a133567"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(88.1094,133.0233)"
+       id="g133565">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133563" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:80:81"
+     id="a133573"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(95.2445,133.9233)"
+       id="g133571">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133569" />
+    </g>
+  </a>
+  <g
+     transform="translate(88.2139,25.251502)"
+     id="g133577">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 217,-311 c 0,-11 -8,-19 -19,-19 -11,0 -20,8 -20,19 v 142 l -81,-30 v -156 c 0,-11 -9,-20 -20,-20 -11,0 -19,9 -19,20 v 142 l -28,-11 c -3,-1 -5,-1 -8,-1 -12,0 -22,10 -22,23 v 57 c 0,9 6,18 15,21 l 43,16 V 49 L 30,39 C 27,38 25,38 22,38 10,38 0,47 0,60 v 57 c 0,9 6,18 15,21 l 43,16 v 157 c 0,11 8,19 19,19 11,0 20,-8 20,-19 V 169 l 81,30 v 156 c 0,11 9,20 20,20 11,0 19,-9 19,-20 V 213 l 28,11 c 3,1 5,1 8,1 12,0 22,-10 22,-23 v -57 c 0,-9 -6,-18 -15,-21 L 217,108 V -49 l 28,10 c 3,1 5,1 8,1 12,0 22,-9 22,-22 v -57 c 0,-9 -6,-18 -15,-21 l -43,-16 z M 97,64 V -94 l 81,30 V 94 Z"
+       fill="currentColor"
+       id="path133575" />
+  </g>
+  <g
+     transform="translate(90.6637,23.901502)"
+     id="g133581">
+    <rect
+       x="-0.062799998"
+       y="-2.7026"
+       width="0.12549999"
+       height="3.8910999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133579" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:84:85"
+     id="a133587"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(95.4552,128.6407)"
+       id="g133585">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path133583" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:86:87"
+     id="a133593"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(95.4552,127.1664)"
+       id="g133591">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 190,464 c -54,0 -61,-71 -61,-141 v -73 -73 c 0,-70 7,-141 61,-141 54,0 62,71 62,141 0,26 -1,51 -1,73 0,22 1,47 1,73 0,70 -8,141 -62,141 z m 0,36 C 308,500 380,378 380,250 380,122 308,0 190,0 72,0 0,122 0,250 0,378 72,500 190,500 Z"
+         fill="currentColor"
+         id="path133589" />
+    </g>
+  </a>
+  <g
+     transform="translate(86.7261,23.901502)"
+     id="g133597">
+    <rect
+       x="-0.062799998"
+       y="-2.8629999"
+       width="0.12549999"
+       height="3.6015999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133595" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:26:27"
+     id="a133603"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(27.2908,128.5233)"
+       id="g133601">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133599" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:32:33"
+     id="a133609"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(30.4884,128.9733)"
+       id="g133607">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133605" />
+    </g>
+  </a>
+  <g
+     transform="translate(20.5302,19.851502)"
+     id="g133613">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 29,39 -2,-64 v -11 c 0,-22 2,-43 5,-65 44,38 91,80 91,138 0,33 -13,66 -42,66 C 50,103 30,72 29,39 Z m -57,415 c 9,5 18,8 28,8 10,0 19,-3 28,-8 L 21,111 c 25,23 58,36 92,36 51,0 87,-49 87,-103 0,-79 -84,-117 -144,-169 -16,-14 -25,-41 -47,-41 -14,0 -25,13 -25,27 z"
+       fill="currentColor"
+       id="path133611" />
+  </g>
+  <g
+     transform="translate(22.71,23.901502)"
+     id="g133617">
+    <rect
+       x="-0.062799998"
+       y="-6.7463999"
+       width="0.12549999"
+       height="2.5349"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133615" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:29:30"
+     id="a133623"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(27.5357,125.161)"
+       id="g133621">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path133619" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:33:34"
+     id="a133629"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(30.6991,125.3461)"
+       id="g133627">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path133625" />
+    </g>
+  </a>
+  <g
+     transform="translate(18.9257,23.901502)"
+     id="g133633">
+    <rect
+       x="-0.062799998"
+       y="-7.3694"
+       width="0.12549999"
+       height="3.158"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133631" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:23:24"
+     id="a133639"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(23.7173,123.5403)"
+       id="g133637">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path133635" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:22:23"
+     id="a133645"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(23.5066,128.5233)"
+       id="g133643">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133641" />
+    </g>
+  </a>
+  <g
+     transform="translate(13.5484,19.401502)"
+     id="g133649">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 29,39 -2,-64 v -11 c 0,-22 2,-43 5,-65 44,38 91,80 91,138 0,33 -13,66 -42,66 C 50,103 30,72 29,39 Z m -57,415 c 9,5 18,8 28,8 10,0 19,-3 28,-8 L 21,111 c 25,23 58,36 92,36 51,0 87,-49 87,-103 0,-79 -84,-117 -144,-169 -16,-14 -25,-41 -47,-41 -14,0 -25,13 -25,27 z"
+       fill="currentColor"
+       id="path133647" />
+  </g>
+  <g
+     transform="translate(33.2551,23.901502)"
+     id="g133653">
+    <rect
+       x="-0.062799998"
+       y="-6.1359"
+       width="0.12549999"
+       height="2.8245001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133651" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:43:44"
+     id="a133659"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(37.9955,125.7714)"
+       id="g133657">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path133655" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:40:41"
+     id="a133665"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(37.836,129.4233)"
+       id="g133663">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133661" />
+    </g>
+  </a>
+  <g
+     transform="translate(27.3953,20.751502)"
+     id="g133669">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m -8,375 c 8,5 17,7 26,7 9,0 18,-2 26,-7 l -3,-187 104,21 h 4 c 10,0 18,-8 18,-18 l 7,-566 c -8,-5 -16,-7 -25,-7 -9,0 -18,2 -26,7 l 2,187 -103,-21 h -4 c -10,0 -18,8 -18,18 z M 130,111 40,93 l -3,-204 90,18 z"
+       fill="currentColor"
+       id="path133667" />
+  </g>
+  <g
+     transform="translate(29.4709,23.901502)"
+     id="g133673">
+    <rect
+       x="-0.062799998"
+       y="-6.355"
+       width="0.12549999"
+       height="3.0436001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133671" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:37:38"
+     id="a133679"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(34.2795,125.5523)"
+       id="g133677">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="M 129,129 H 259 C 259,77 291,29 340,29 350,29 354,21 354,14 354,7 350,0 340,0 291,0 243,14 194,14 145,14 98,0 49,0 39,0 34,7 34,14 c 0,7 5,15 15,15 49,0 80,48 80,100 z M 0,250 129,500 c 3,7 13,3 21,0 14,-6 28,-14 44,-14 16,0 31,8 45,14 2,1 2,1 4,1 8,0 16,-9 16,-21 V 129 H 129 v 215 c 0,15 -11,23 -20,23 -5,0 -9,-2 -11,-7 L 32,233 c -4,-7 -9,-9 -15,-9 -9,0 -19,7 -19,17 0,3 0,6 2,9 z"
+         fill="currentColor"
+         id="path133675" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:36:37"
+     id="a133685"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(34.0518,129.4233)"
+       id="g133683">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133681" />
+    </g>
+  </a>
+  <g
+     transform="translate(25.9075,23.901502)"
+     id="g133689">
+    <rect
+       x="-0.062799998"
+       y="-6.5612998"
+       width="0.12549999"
+       height="2.7997999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133687" />
+  </g>
+  <g
+     transform="translate(4.4166,23.901502)"
+     id="g133693">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 29,39 -2,-64 v -11 c 0,-22 2,-43 5,-65 44,38 91,80 91,138 0,33 -13,66 -42,66 C 50,103 30,72 29,39 Z m -57,415 c 9,5 18,8 28,8 10,0 19,-3 28,-8 L 21,111 c 25,23 58,36 92,36 51,0 87,-49 87,-103 0,-79 -84,-117 -144,-169 -16,-14 -25,-41 -47,-41 -14,0 -25,13 -25,27 z"
+       fill="currentColor"
+       id="path133691" />
+  </g>
+  <g
+     transform="translate(9.2805,24.351502)"
+     id="g133697">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="M 0,0 C 0,31 25,56 56,56 87,56 111,31 111,0 111,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
+       fill="currentColor"
+       id="path133695" />
+  </g>
+  <g
+     transform="translate(7.6994,23.901502)"
+     id="g133701">
+    <rect
+       x="-0.062799998"
+       y="0.67769998"
+       width="0.12549999"
+       height="2.6222999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133699" />
+  </g>
+  <g
+     transform="translate(0.80000003,24.801502)"
+     id="g133705">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 378,263 c 4,0 7,1 11,1 156,0 257,-129 257,-262 0,-76 -34,-154 -108,-210 -22,-17 -46,-29 -72,-37 3,-34 5,-68 5,-102 0,-20 -1,-40 -2,-60 -7,-121 -90,-228 -209,-228 -108,0 -196,87 -196,196 0,58 53,104 112,104 54,0 95,-48 95,-104 0,-52 -43,-95 -95,-95 -10,0 -20,2 -29,6 26,-38 68,-63 116,-63 h 3 c 93,2 153,92 159,190 1,19 2,37 2,56 0,30 -2,60 -4,90 -29,-5 -58,-8 -88,-8 -188,0 -333,173 -333,375 0,177 130,307 246,442 -20,62 -38,125 -46,190 -6,52 -7,104 -7,157 0,115 55,223 148,290 7,5 16,4 22,-1 71,-83 134,-244 134,-357 0,-143 -85,-255 -178,-364 21,-68 40,-137 57,-206 z m 84,-465 c 67,24 111,94 111,162 0,89 -65,178 -170,190 24,-115 46,-230 59,-352 z M 75,26 c 0,-134 129,-245 263,-245 28,0 55,2 81,6 C 405,-87 383,31 358,150 279,142 234,89 234,31 c 0,-43 25,-89 80,-121 5,-5 7,-11 7,-16 0,-12 -10,-23 -22,-23 -3,0 -6,1 -9,2 -81,43 -118,116 -118,186 0,89 58,175 161,198 -14,58 -29,116 -46,173 C 181,308 75,186 75,26 Z M 406,1042 C 307,995 244,894 244,785 c 0,-73 20,-132 38,-191 79,97 144,199 144,324 0,53 -4,76 -20,124 z"
+       fill="currentColor"
+       id="path133703" />
+  </g>
+  <g
+     transform="translate(11.9439,23.901502)"
+     id="g133709">
+    <rect
+       x="-0.062799998"
+       y="-7.5606999"
+       width="0.12549999"
+       height="2.8993001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133707" />
+  </g>
+  <g
+     transform="translate(15.7282,23.901502)"
+     id="g133713">
+    <rect
+       x="-0.062799998"
+       y="-7.4569998"
+       width="0.12549999"
+       height="2.7955999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133711" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:19:20"
+     id="a133719"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(20.5539,123.5207)"
+       id="g133717">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path133715" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:17:18"
+     id="a133725"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(20.309,128.0733)"
+       id="g133723">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133721" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:14:15"
+     id="a133731"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(16.7696,123.6106)"
+       id="g133729">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path133727" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:13:14"
+     id="a133737"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(16.5248,128.0733)"
+       id="g133735">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133733" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:8:9"
+     id="a133743"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(13.3272,127.6233)"
+       id="g133741">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133739" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:10:11"
+     id="a133749"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(13.4867,124.2591)"
+       id="g133747">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 198,284 c 24,15 48,29 65,52 12,16 19,34 28,52 2,5 6,7 11,7 8,0 16,-6 16,-17 V 161 h 79 c 12,0 18,-9 18,-18 0,-9 -6,-18 -18,-18 h -79 c 2,-51 33,-96 80,-96 10,0 15,-8 15,-15 C 413,7 408,0 398,0 349,0 302,14 253,14 204,14 156,0 107,0 97,0 93,7 93,14 c 0,7 4,15 14,15 47,0 79,45 81,96 H 36 c -29,0 -38,17 -38,28 0,3 1,6 2,8 78,88 123,201 123,319 0,11 8,21 17,21 1,0 3,-1 4,-1 25,-7 50,-14 76,-14 26,0 52,7 77,14 2,1 4,1 6,1 10,0 17,-7 17,-14 0,-2 0,-5 -2,-7 L 36,161 h 152 v 96 c 0,10 1,21 10,27 z"
+         fill="currentColor"
+         id="path133745" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:960:13:14"
+     id="a133755"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(13.3272,133.0233)"
+       id="g133753">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 312,64 c 0,24 -20,41 -41,41 -4,0 -8,-1 -12,-2 C 229,94 182,65 146,41 110,17 63,-13 43,-37 36,-45 33,-54 33,-64 c 0,-24 20,-41 41,-41 4,0 8,1 12,2 30,9 77,38 113,62 36,24 83,54 103,78 7,8 10,17 10,27 z m -53,73 c 48,0 86,-22 86,-74 0,-18 -4,-38 -10,-56 -12,-38 -30,-73 -63,-95 -53,-36 -113,-49 -186,-49 -48,0 -86,22 -86,74 0,18 4,38 10,56 12,38 31,73 64,95 53,36 112,49 185,49 z"
+         fill="currentColor"
+         id="path133751" />
+    </g>
+  </a>
+  <g
+     transform="translate(8.7464,23.901502)"
+     id="g133759">
+    <rect
+       x="-0.062799998"
+       y="-7.6483002"
+       width="0.12549999"
+       height="2.5369"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133757" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:10:11"
+     id="a133765"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(56.8466,126.9601)"
+       id="g133763">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="M 129,129 H 259 C 259,77 291,29 340,29 350,29 354,21 354,14 354,7 350,0 340,0 291,0 243,14 194,14 145,14 98,0 49,0 39,0 34,7 34,14 c 0,7 5,15 15,15 49,0 80,48 80,100 z M 0,250 129,500 c 3,7 13,3 21,0 14,-6 28,-14 44,-14 16,0 31,8 45,14 2,1 2,1 4,1 8,0 16,-9 16,-21 V 129 H 129 v 215 c 0,15 -11,23 -20,23 -5,0 -9,-2 -11,-7 L 32,233 c -4,-7 -9,-9 -15,-9 -9,0 -19,7 -19,17 0,3 0,6 2,9 z"
+         fill="currentColor"
+         id="path133761" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:8:9"
+     id="a133771"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(56.6189,130.7733)"
+       id="g133769">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133767" />
+    </g>
+  </a>
+  <g
+     transform="translate(44.9223,22.101502)"
+     id="g133775">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 217,-311 c 0,-11 -8,-19 -19,-19 -11,0 -20,8 -20,19 v 142 l -81,-30 v -156 c 0,-11 -9,-20 -20,-20 -11,0 -19,9 -19,20 v 142 l -28,-11 c -3,-1 -5,-1 -8,-1 -12,0 -22,10 -22,23 v 57 c 0,9 6,18 15,21 l 43,16 V 49 L 30,39 C 27,38 25,38 22,38 10,38 0,47 0,60 v 57 c 0,9 6,18 15,21 l 43,16 v 157 c 0,11 8,19 19,19 11,0 20,-8 20,-19 V 169 l 81,30 v 156 c 0,11 9,20 20,20 11,0 19,-9 19,-20 V 213 l 28,11 c 3,1 5,1 8,1 12,0 22,-10 22,-23 v -57 c 0,-9 -6,-18 -15,-21 L 217,108 V -49 l 28,10 c 3,1 5,1 8,1 12,0 22,-9 22,-22 v -57 c 0,-9 -6,-18 -15,-21 l -43,-16 z M 97,64 V -94 l 81,30 V 94 Z"
+       fill="currentColor"
+       id="path133773" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:960:15:16"
+     id="a133781"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(56.6189,133.0233)"
+       id="g133779">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 312,64 c 0,24 -20,41 -41,41 -4,0 -8,-1 -12,-2 C 229,94 182,65 146,41 110,17 63,-13 43,-37 36,-45 33,-54 33,-64 c 0,-24 20,-41 41,-41 4,0 8,1 12,2 30,9 77,38 113,62 36,24 83,54 103,78 7,8 10,17 10,27 z m -53,73 c 48,0 86,-22 86,-74 0,-18 -4,-38 -10,-56 -12,-38 -30,-73 -63,-95 -53,-36 -113,-49 -186,-49 -48,0 -86,22 -86,74 0,18 4,38 10,56 12,38 31,73 64,95 53,36 112,49 185,49 z"
+         fill="currentColor"
+         id="path133777" />
+    </g>
+  </a>
+  <g
+     transform="translate(47.3721,23.901502)"
+     id="g133785">
+    <rect
+       x="-0.062799998"
+       y="-5.4025998"
+       width="0.12549999"
+       height="3.4410999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133783" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:64:65"
+     id="a133791"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(52.1636,125.9407)"
+       id="g133789">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path133787" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:60:61"
+     id="a133797"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(51.9529,130.7733)"
+       id="g133795">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133793" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:13:14"
+     id="a133803"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(59.8164,131.2233)"
+       id="g133801">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133799" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:16:17"
+     id="a133809"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(60.0271,124.8353)"
+       id="g133807">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 190,464 c -54,0 -61,-71 -61,-141 v -73 -73 c 0,-70 7,-141 61,-141 54,0 62,71 62,141 0,26 -1,51 -1,73 0,22 1,47 1,73 0,70 -8,141 -62,141 z m 0,36 C 308,500 380,378 380,250 380,122 308,0 190,0 72,0 0,122 0,250 0,378 72,500 190,500 Z"
+         fill="currentColor"
+         id="path133805" />
+    </g>
+  </a>
+  <g
+     transform="translate(50.9911,23.901502)"
+     id="g133813">
+    <rect
+       x="-0.062799998"
+       y="0.67769998"
+       width="0.12549999"
+       height="2.6222999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133811" />
+  </g>
+  <g
+     transform="translate(52.5722,24.351502)"
+     id="g133817">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="M 0,0 C 0,31 25,56 56,56 87,56 111,31 111,0 111,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
+       fill="currentColor"
+       id="path133815" />
+  </g>
+  <g
+     transform="translate(52.038,23.901502)"
+     id="g133821">
+    <rect
+       x="-0.062799998"
+       y="-4.9473"
+       width="0.12549999"
+       height="2.9858"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133819" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:956:14:15"
+     id="a133827"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(60.0271,126.3096)"
+       id="g133825">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 190,464 c -54,0 -61,-71 -61,-141 v -73 -73 c 0,-70 7,-141 61,-141 54,0 62,71 62,141 0,26 -1,51 -1,73 0,22 1,47 1,73 0,70 -8,141 -62,141 z m 0,36 C 308,500 380,378 380,250 380,122 308,0 190,0 72,0 0,122 0,250 0,378 72,500 190,500 Z"
+         fill="currentColor"
+         id="path133823" />
+    </g>
+  </a>
+  <g
+     transform="translate(40.2369,23.901502)"
+     id="g133831">
+    <rect
+       x="-0.062799998"
+       y="-5.6932998"
+       width="0.12549999"
+       height="2.8318"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133829" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:53:54"
+     id="a133837"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(45.0285,124.8285)"
+       id="g133835">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 129,149 h 7 c 36,0 74,-13 111,-40 19,-14 40,-21 59,-21 22,0 40,10 46,31 2,7 7,11 13,11 7,0 15,-5 15,-14 v -5 C 361,40 296,0 234,0 196,0 159,15 133,47 121,62 105,69 89,69 60,69 32,48 29,13 28,4 22,0 15,0 8,0 0,5 0,14 c 0,173 233,163 233,341 0,56 -14,116 -62,116 -33,0 -66,-15 -66,-44 0,-24 31,-37 31,-61 0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,78 74,134 157,134 98,0 191,-55 191,-145 C 362,211 227,199 129,149 Z"
+         fill="currentColor"
+         id="path133833" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:50:51"
+     id="a133843"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(44.8178,129.8733)"
+       id="g133841">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133839" />
+    </g>
+  </a>
+  <g
+     transform="translate(36.4527,23.901502)"
+     id="g133847">
+    <rect
+       x="-0.062799998"
+       y="-5.8474002"
+       width="0.12549999"
+       height="2.9860001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133845" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:47:48"
+     id="a133853"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(41.2784,126.0599)"
+       id="g133851">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="m 155,471 c -34,0 -70,-8 -70,-38 0,-19 31,-23 31,-42 0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,67 68,109 141,109 93,0 174,-31 174,-113 0,-41 -6,-77 -42,-94 -11,-5 -17,-16 -17,-27 0,-11 6,-22 17,-27 40,-19 59,-53 59,-98 C 346,47 263,0 160,0 78,0 0,45 0,119 c 0,32 26,58 58,58 32,0 58,-26 58,-58 0,-22 -36,-26 -36,-48 0,-33 42,-42 80,-42 46,0 56,58 56,112 v 38 c 0,40 -4,69 -43,69 H 99 c -12,0 -18,9 -18,18 0,9 6,18 18,18 h 74 c 40,0 43,31 43,73 v 30 c 0,50 -16,84 -61,84 z"
+         fill="currentColor"
+         id="path133849" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:46:47"
+     id="a133859"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(41.0335,129.8733)"
+       id="g133857">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133855" />
+    </g>
+  </a>
+  <g
+     transform="translate(31.0754,20.751502)"
+     id="g133863">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 29,39 -2,-64 v -11 c 0,-22 2,-43 5,-65 44,38 91,80 91,138 0,33 -13,66 -42,66 C 50,103 30,72 29,39 Z m -57,415 c 9,5 18,8 28,8 10,0 19,-3 28,-8 L 21,111 c 25,23 58,36 92,36 51,0 87,-49 87,-103 0,-79 -84,-117 -144,-169 -16,-14 -25,-41 -47,-41 -14,0 -25,13 -25,27 z"
+       fill="currentColor"
+       id="path133861" />
+  </g>
+  <g
+     transform="translate(43.4345,23.901502)"
+     id="g133867">
+    <rect
+       x="-0.062799998"
+       y="-5.5630002"
+       width="0.12549999"
+       height="3.1515999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133865" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:57:58"
+     id="a133873"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(48.2431,125.2173)"
+       id="g133871">
+      <path
+         transform="scale(0.002,-0.002)"
+         d="M 129,129 H 259 C 259,77 291,29 340,29 350,29 354,21 354,14 354,7 350,0 340,0 291,0 243,14 194,14 145,14 98,0 49,0 39,0 34,7 34,14 c 0,7 5,15 15,15 49,0 80,48 80,100 z M 0,250 129,500 c 3,7 13,3 21,0 14,-6 28,-14 44,-14 16,0 31,8 45,14 2,1 2,1 4,1 8,0 16,-9 16,-21 V 129 H 129 v 215 c 0,15 -11,23 -20,23 -5,0 -9,-2 -11,-7 L 32,233 c -4,-7 -9,-9 -15,-9 -9,0 -19,7 -19,17 0,3 0,6 2,9 z"
+         fill="currentColor"
+         id="path133869" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/Javier/Documents/lilypond%20scores/ricci%20left%20hand%20examples.ly:955:56:57"
+     id="a133879"
+     transform="translate(-5.6906,-108.6718)">
+    <g
+       transform="translate(48.0153,130.3233)"
+       id="g133877">
+      <path
+         transform="scale(0.0036,-0.0036)"
+         d="m 215,137 c 57,0 111,-29 111,-92 0,-71 -54,-120 -101,-148 -35,-21 -74,-34 -114,-34 -57,0 -111,29 -111,92 0,71 54,120 101,148 35,21 74,34 114,34 z"
+         fill="currentColor"
+         id="path133875" />
+    </g>
+  </a>
+  <g
+     transform="translate(55.2356,23.901502)"
+     id="g133883">
+    <rect
+       x="-0.062799998"
+       y="-4.8076"
+       width="0.12549999"
+       height="3.2962"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect133881" />
+  </g>
+  <g
+     transform="translate(38.0572,21.201502)"
+     id="g133887">
+    <path
+       transform="scale(0.0036,-0.0036)"
+       d="m 29,39 -2,-64 v -11 c 0,-22 2,-43 5,-65 44,38 91,80 91,138 0,33 -13,66 -42,66 C 50,103 30,72 29,39 Z m -57,415 c 9,5 18,8 28,8 10,0 19,-3 28,-8 L 21,111 c 25,23 58,36 92,36 51,0 87,-49 87,-103 0,-79 -84,-117 -144,-169 -16,-14 -25,-41 -47,-41 -14,0 -25,13 -25,27 z"
+       fill="currentColor"
+       id="path133885" />
+  </g>
+</svg>
