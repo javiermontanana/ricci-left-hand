@@ -31,6 +31,8 @@
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node }}</a>
     {% endfor %} -->
 
+
+    <!-- THIS IS THE SIDEBAR TOC I MADE! -->
     {% for node in site.data.urls %}
     
     <a class="sidebar-nav-item{% if page.title == node.title %} active{% endif %}" href="{{ site.baseurl }}/{{ node.url }}">{{ node.title }}</a>

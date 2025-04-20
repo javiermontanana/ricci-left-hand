@@ -12,5 +12,5 @@ This ear-training phase is generally neglected with students and is therefore th
 
 TOC for chords chapter:
 - The drone scale
-- the chordal concept: LEft haand extension
+- The chordal concept: Left haand extension
 - Double stops
