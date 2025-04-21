@@ -3,7 +3,7 @@
 # Setup
 title:               Left-Hand Violin Technique
 tagline:             Ruggiero Ricci
-description:         'This is a transcription of <em>Left-Hand Violin Technique</em> by Ruggiero Ricci, using the Jekyll theme Ed.'
+description:         'This is a transcription of the book <em>Left-Hand Violin Technique</em> by Ruggiero Ricci.'
 url:                 ''
 baseurl:             '/ricci-left-hand'
 
@@ -14,7 +14,7 @@ author:
   email:             colibri.alex@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: orange
+color-scheme: brown
 
 # Permalinks
 permalink: pretty
