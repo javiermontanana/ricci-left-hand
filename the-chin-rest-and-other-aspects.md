@@ -59,17 +59,29 @@ How much time should be devoted to scales alone? For the student with an untrain
 ## Practice prescriptions for the left hand
 
 For intonation: constant vigilance. From chords or double stops. Play more on the pads of the fingers. Check yourself with open strings. 
+
 For weak hands: practice pizzicato, fingered thirds and octaves. 
+
 To improve sound: glissando thirds, sixths and octaves. 
+
 To improve sound: glissando thirds, sixths and octaves, with non-stop vibrato.
+
 To relieve hand tension: vibrato.
+
 To improve shifting: put the scroll against the wall; if it moves, you are shifting too hard. 
+
 To improve the trill: pizzicato and short tension trills. 
+
 For better independence of fingers: left-hand pizzicato.
+
 For smooth shifting, practice harmonics. It is not necessary to use more pressure than one uses on the stopped note.
+
 In technical passages, the left hand should keep in close contact with the instrument (fingerboard). A chord outline or finger pattern should encompass the passage. Shift only when necessary. Use extensions instead of shifting whenever possible. 
+
 In melodic passages, disregard the old rule of keeping your fingers down. Free the hand. 
+
 Keep the joints of the fingers back from the tip at a “V” angle. Push up from behind, not out from the side.
+
 On slurred passages, put your fingers down more percussively. This gives clarity and rhythmic control. 
 Check slurred passages by playing them spiccato. This will show up any unevenness. 
 
