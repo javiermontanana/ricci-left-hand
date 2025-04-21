@@ -3,7 +3,7 @@
 # Setup
 title:               Left-Hand Violin Technique
 tagline:             Ruggiero Ricci
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+description:         'This is a transcription of <em>Left-Hand Violin Technique</em> by Ruggiero Ricci, using the Jekyll theme Ed.'
 url:                 ''
 baseurl:             '/ricci-left-hand'
 
