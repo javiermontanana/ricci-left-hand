@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-This website is a transcription of the book Left-Hand Violin Technique by Ruggiero Ricci. 
+This website is a transcription of the book *Left-Hand Violin Technique*, by Ruggiero Ricci. 
 
-![Book cover](assets/book-cover.jpg)
+![Book cover]({{site.baseurl}}assets/book-cover.jpg)
 
 It is built with the website builder [Jekyll](https://jekyllrb.com) using the [Ed theme](https://minicomp.github.io/ed/). You can view the source code in the [github repository](https://github.com/javiermontanana/ricci-left-hand). 
 
