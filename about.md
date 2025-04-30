@@ -3,6 +3,36 @@ layout: page
 title: About
 ---
 
+
+This website is a transcription of the book Left-Hand Violin Technique by Ruggiero Ricci. 
+
+![Book cover](assets/book-cover.jpg)
+
+
+It is built with the website builder [Jekyll](https://jekyllrb.com) using the [Ed](https://minicomp.github.io/ed/) theme. 
+
+
+You can view the source code in the [github repository](https://github.com/javiermontanana/ricci-left-hand).
+
+
+The examples were engraved using [Lilypond](https://lilypond.org/) and [Frescobaldi](https://www.frescobaldi.org/), exported as SVG and then included in the HTML code. 
+
+
+
+The book is transcribed verbatim with a few small changes: 
+
+- In the printed book, the chapter structure is not very clear so I've made my own interpretation of Chords being the first chapter and Shifting being the second, each with three sections. 
+- In a couple of places I've added subheadings for grouping the examples by keys. 
+- Where the numbering of examples seemed inconsistent, I've made up a numbering. 
+- In the chapter Left Hand Pizzicato, the examples are very long. I have listed them but not transcribed them. They are printed in the book, but if you're interested, you can find the music those elsewhere. 
+
+Other than those changes, all the content in the book is transcribed in this website. 
+
+
+If you want to get in touch with any feedback or questions, send me an email to [javier.montanana@gmail.com](mailto:javier.montanana@gmail.com)
+
+
+
 One of our most pressing and ever-evolving needs as scholars is to pass on our textual artifacts
 from one generation to another. The art of textual editing, among other practices, has helped many
 cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its

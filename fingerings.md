@@ -14,9 +14,9 @@ Most technical passages can be broken down into patterns or chords, and here the
 
 {% include examples/fingering/ex82b.svg %}
 
-In cantabile playing, continuity is a problem. Too much finger pressure will cause a smear instead of a  connection. 
+In cantabile playing, continuity is a problem. Too much finger pressure will cause a smear instead of a connection. 
 
-The fingering *below* the music in the following example is by Paganini. Note the usage of glissando fingering (2-2, 4444!) It make sense. 
+The fingering *below* the music in the following example is by Paganini. Note the usage of glissando fingering (2-2, 4-4-4-4!) It make sense. 
 
 #### ex 83
 
@@ -33,7 +33,7 @@ In the high positions it is better to use a glissando technique.
 {% include examples/fingering/ex84.svg %}
 
 
-It is much esier to use the third finger instead of the fourth in the high positions, since the fourth finger necessitates bringing the elbow out further. 
+It is much easier to use the third finger instead of the fourth in the high positions, since the fourth finger necessitates bringing the elbow out further. 
 
 #### ex 85
 
