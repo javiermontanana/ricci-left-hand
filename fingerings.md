@@ -79,7 +79,7 @@ The following examples are constructed to force the ear to work when untypical o
 
 When analyzing technical passages, here are some shifting and fingering guidelines to keep in mind.
 
-- Keep in position as lonf as possible by using chordal outlines. 
+- Keep in position as long as possible by using chordal outlines. 
 - Keep in position by using extensions. 
 - Shift on the same finger. 
 

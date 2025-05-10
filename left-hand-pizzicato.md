@@ -7,11 +7,11 @@ Left-hand pizzicato is one of the best exercises possible for the development of
 
 When beginning, one should practice this technique only a few minutes, otherwise the fingers will become blistered. Do not attempt to break the strings with force. Start softly and concentrate on evenness. After the fingers are more calloused, increase the length of practice time and volume. Ten minutes practice a day makes a great difference. 
 
-- Ex 92: sevcik
-- ex 93 jacob dont caprice no. 6
-- ex 94 Paganini nel cor piu non mi sento variations
-- ex 95 paganini sonata, variation
-- ex 96 wieniawski russian carnival
-- ex 97 sarasate caprice basque
-- ex 98 sarasate caprice bsque
-- ernst the last rose of summer
+- ex 92: Sevcik
+- ex 93: Jacob Dont - Caprice no. 6
+- ex 94: Paganini - Nel Cor Più non mi Sento Variations
+- ex 95: Paganini - Sonata, Variation
+- ex 96: Wieniawski - Russian Carnival
+- ex 97: Sarasate - Caprice Basque
+- ex 98: Sarasate - Caprice Basque
+- Ernst - The Last Rose of Summer
