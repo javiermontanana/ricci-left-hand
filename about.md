@@ -16,7 +16,7 @@ The book is transcribed verbatim with a few small changes:
 
 - In the printed book, the chapter structure is not very clear so I've made my own interpretation of Chords being the first chapter and Shifting being the second, each with three sections. 
 - In a couple of places I've added subheadings for grouping the examples by keys. 
-- Where the numbering of examples seemed inconsistent, I've made up a numbering. 
+- Where the numbering of examples seemed inconsistent, I've made up a numbering. The example numbers is brackets are mine.
 - In the chapter *Left Hand Pizzicato*, I have listed but not transcribed the examples because they are long and they are by other composers, so the music for those can be found elsewhere.  
 
 Other than that, all the content in the book is transcribed here. 
